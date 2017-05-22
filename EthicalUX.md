@@ -5,7 +5,7 @@
 
 -----
 
-<!-- .slide: data-background-image="img/800px-Villa_Rotonda_front.jpg" -->
+<!-- .slide: data-background-image="img/villarotunda.jpg" -->
 
 Photograph: Stefan Bauer. [https://en.wikipedia.org/wiki/File:Villa_Rotonda_front.jpg](https://en.wikipedia.org/wiki/File:Villa_Rotonda_front.jpg)
 
@@ -16,7 +16,7 @@ Palladio himself was inspired by Ancient Rome, and how the architecture of that 
 
 -----
 
-![Front page of Palladio's Four Books of Architecture, showing maidens of Architecture bowing to the Queen of Virtue](img/The-Four-Books-of-Architecture-by-Andrea-Palladio.jpg)
+![Front page of Palladio's Four Books of Architecture, showing maidens of Architecture bowing to the Queen of Virtue](img/palladio.jpg)
 
 Andrea Palladio, *Four Books of Architecture* (1788, Isaac Ware, London). Front page.
 
@@ -25,7 +25,7 @@ Palladio's other great legacy was his book, *The Four Books of Architecture*. Tw
 
 -----
 
-<!-- .slide: data-background-image="img/deBotton_Alain_940_529_72-ppi.jpg" -->
+<!-- .slide: data-background-image="img/deBotton.jpg" -->
 
 ### Political and ethical ideas can be written into window frames and door handles.
 
