@@ -58,6 +58,19 @@ Not literal representations of the values in the form of gods or statues or fres
 
 -----
 
+<!-- .slide: data-background-image="img/goodman.jpg" -->
+
+### Technology is a branch of moral philosophy, not of science.
+
+#### Paul Goodman
+
+[Goodman, P. (1969). Can Technology Be Humane? *New York Review of Books*, Nov. 20, 1969](http://www.nybooks.com/articles/1969/11/20/can-technology-be-humane)
+
+Note:
+This is true of all created things, not just architecture. Long before the internet, the social critic Paul Goodman associated all forms of technology with moral philosophy rather than science, something that seems almost inconcievable to us today. But his point was that creating or designing new things involved moral choices first and foremost. Because as we create new things, we are shaping the kinds of experiences, and therefore the kinds of choices and lives that users of our designs will face.
+
+-----
+
 <!-- .slide: data-background-image="img/orphanides.jpg" -->
 
 ### System design reflects the designer's values and the cultural context.
@@ -67,7 +80,7 @@ Not literal representations of the values in the form of gods or statues or fres
 [Architecture is politics: The power and the perils of systems design](https://docs.google.com/presentation/d/180dMBG26xMYB9gfIotoUyCBQfO3XfmHiJGQjvn58GwY/edit?pref=2&pli=1#slide=id.gf03c9bb35_0_143)
 
 Note:
-This is true of all created things, not just architecture. In his insightful talk Architecture is Politics, UX Libs II alum Andreas Orphanides notes that nearly all created and designed things are systems, and systems are just models of reality. When we create any model of reality, we embed within that model all of our values and biases, whether we want to or not. So whether we set out like Palladius to encode our values literally on the pediments of our buildings, or we're just making software or services for library patrons on deadline, we're building systems that reflect our values, that inherently have opinions about what is right nd what is wrong.
+ In his insightful talk Architecture is Politics, UX Libs II alum Andreas Orphanides notes that nearly all created and designed things are systems, and systems are just models of reality. When we create any model of reality, we embed within that model all of our values and biases, whether we want to or not. So whether we set out like Palladius to encode our values literally on the pediments of our buildings, or we're just making software or services for library patrons on deadline, we're building systems that reflect our values, that inherently have opinions about what is right nd what is wrong.
 
 -----
 
@@ -100,12 +113,18 @@ When we do create tools that allow our users better access to our services, are 
 
 <img src="img/brklyn_gender.png" alt="Gender binary selector at Brooklyn Public Library" style="width: 50%; position: fixed; left: 25%; top: 35%;z-index: 100;" />
 
-Or does our fetish with data collection and our own views of how the world is get encoded in our designs, tripping up our users?
+Do our political or religious beliefs shape the choices we offer users?
+
+Note:
+Do our political or religious beliefs, coupled with our fetish with data collection, affect our designs, tripping up our users?
 
 -----
 
 ![Summon Topic Explorer result showing Women in the workforce being equated with stress](img/stressworkforce.png)
 
+Do we value accuracy and equity more than the appearance of relevance?
+
+Note:
 When we build tools to help our users access resources and make sense of information, what values are being encoded into the designs? Do we value accuracy and equity more than the appearance of relevance?
 
 -----
@@ -118,6 +137,8 @@ When we build tools to help our users access resources and make sense of informa
 
 [How Designers Destroyed the World](https://vimeo.com/68470326)
 
+Note:
+
 -----
 
 ### The library world has been far too gullible, far too willing to regard any technical advance as a service advance.
@@ -125,6 +146,8 @@ When we build tools to help our users access resources and make sense of informa
 #### Jonathan D. Lauer & Steve McKinzie
 
 Lauer, J. & McKinzie, S. (2002/2003). Bad moon rising: a candid examination of digital reference and what it means to the profession. *The Reference Librarian*, 79/80, 46.
+
+Note:
 
 -----
 
@@ -136,6 +159,8 @@ Lauer, J. & McKinzie, S. (2002/2003). Bad moon rising: a candid examination of d
 
 [Libraries are Software](http://codyhanson.com/writing/software.html)
 
+Note:
+
 -----
 
 <!-- .slide: data-background-image="img/hanson.png" -->
@@ -146,47 +171,46 @@ Lauer, J. & McKinzie, S. (2002/2003). Bad moon rising: a candid examination of d
 
 [Libraries are Software](http://codyhanson.com/writing/software.html)
 
+Note:
+
 -----
 
 # Ethical <span class="blue">Design</span>
 
------
+Note:
 
-<!-- .slide: data-background-image="img/goodman.jpg" -->
-
-### Technology is a branch of moral philosophy, not of science.
-
-#### Paul Goodman
-
-[Goodman, P. (1969). Can Technology Be Humane? *New York Review of Books*, Nov. 20, 1969](http://www.nybooks.com/articles/1969/11/20/can-technology-be-humane)
 
 -----
 
 ![Design interprets the world to create useful objects. Ethical design closes the loop, imagining how those objects will affect the world. Tweet by Cennydd Bowles](img/bowles.png)
 
-https://twitter.com/Cennydd/status/831431945930293248
+[https://twitter.com/Cennydd/status/831431945930293248](https://twitter.com/Cennydd/status/831431945930293248)
 
 Note:
 
 -----
 
-<!-- .slide: data-background-image="img/papanek.jpg" -->
+![Image of Facebook Year in review as seen by Eric Meyer in 2015](img/fb-year.png)
 
-### [The designer’s] social and moral judgment must be brought into play long before [she] begins to design...
+[Inadvertent Algorithmic Cruelty, by Eric Meyer](http://meyerweb.com/eric/thoughts/2014/12/24/inadvertent-algorithmic-cruelty/)
 
-#### Victor Papanek
+Note:
+In 2014, Facebook designers launched a new feature called Year in Review. They chose the image that had the most interactions on your timeline that year and presented it to you as the cover of a slideshow, highlighting what an awesome year you've had. 
 
-Papanek, V. (1971). *Design for the Real World: Human ecology and social change*. New York: Pantheon Books. p. 45.
+In the summer of 2014 Eric Meyer lost his 6-year-old daughter to cancer. At the end of that year Facebook offered to show him his year with images of clip art party goers dancing around the face of his daughter.
 
 -----
 
-<!-- .slide: data-background-image="img/papanek.jpg" -->
+<!-- .slide: data-background-image="img/meyer.jpg" -->
 
-### In other words, will [her] design be on the side of the social good or not.
+### The failure wasn’t in their design, but in the narrowness of their vision.
 
-#### Victor Papanek
+#### Eric Meyer
 
-Papanek, V. (1971). *Design for the Real World: Human ecology and social change*. New York: Pantheon Books. p. 46.
+Meyer, E. and Wachter-Boettcher, S. (2016). *Design for Real Life*. New York:  A Book Apart. p.9
+
+Note:
+As Meyer notes in his book, *Design for Real Life*, the idea itself wasn't so bad. But the assumptions the designers made about their users betrayed their ignorance.
 
 -----
 
@@ -198,11 +222,15 @@ Papanek, V. (1971). *Design for the Real World: Human ecology and social change*
 
 [How Designers Destroyed the World](https://vimeo.com/68470326)
 
+Note:
+
 -----
 
-<!-- .slide: data-background-image="img/postel.jpg" -->
+# Ethical <span class="blue">Design</span>
 
-https://en.wikipedia.org/wiki/File:Jon_Postel_sitting_in_office.jpg
+-----
+
+![]
 
 -----
 
@@ -214,23 +242,15 @@ https://en.wikipedia.org/wiki/File:Jon_Postel_sitting_in_office.jpg
 
 [DOD Standard: Transmission Control Protocol, January 1980](https://tools.ietf.org/html/rfc761#page-13)
 
------
+Note:
 
-# <span style="display:inline;font-family:Raleway;font-weight:100;">Design for</span><br /><span class="blue" style="font-size: 1.4em;">Failure</span>
+
 
 -----
 
 <!-- Personas, privacy, accuracy & equity -->
 
-<!-- .slide: data-background-image="img/hall.jpg" -->
 
-### By designing for yourself or your team, you are potentially building discrimination right into your product.
-
-#### Erica Hall
-
-Hall, E. (2013). *Just Enough Research*. New York: A Book Apart. p. 79
-
------
 
 <!-- .slide: data-background-image="img/mcgrane.jpg" -->
 
@@ -260,15 +280,7 @@ McGrane, K. (2011). Lesson. *The Manual (2)*. p.45
 
 [The Moral Bias Behind Your Search Results](https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results)
 
------
 
-<!-- .slide: data-background-image="img/meyer.jpg" -->
-
-### The failure wasn’t in their design, but in the narrowness of their vision.
-
-#### Eric Meyer
-
-Meyer, E. and Wachter-Boettcher, S. (2016). *Design for Real Life*. New York:  A Book Apart. p.9
 
 -----
 
@@ -302,6 +314,16 @@ Gillespie, T. (2014). The Relevance of Algorithms. In T. Gillespie, P. Boczkowsk
 
 -----
 
+<!-- .slide: data-background-image="img/hall.jpg" -->
+
+### By designing for yourself or your team, you are potentially building discrimination right into your product.
+
+#### Erica Hall
+
+Hall, E. (2013). *Just Enough Research*. New York: A Book Apart. p. 79
+
+-----
+
 <!-- .slide: data-background-image="img/zomorodi.jpg" -->
 
 ### You need to have diverse people to get diverse algorithms.
@@ -309,8 +331,6 @@ Gillespie, T. (2014). The Relevance of Algorithms. In T. Gillespie, P. Boczkowsk
 #### Manoush Zomorodi
 
 [Privacy, Data Survivalism and a New Tech Ethics, *Note to Self*, Feb 21, 2017](https://www.wnyc.org/story/bonus-privacy-paradox/)
-
-
 
 -----
 
