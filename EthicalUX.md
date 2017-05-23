@@ -230,7 +230,72 @@ Note:
 
 -----
 
-![]
+<!-- .slide: data-background-image="img/papanek.jpg" -->
+
+### [The designer’s] social and moral judgment must be brought into play long before [she] begins to design...In other words, will [her] design be on the side of the social good or not.
+
+#### Victor Papanek
+
+Papanek, V. (1971). *Design for the Real World: Human ecology and social change*. New York: Pantheon Books. p. 45.
+
+-----
+
+![Montana State University Library's Student Personas](img/montanapersona1.png)
+
+[Montana State Univesity Library: Design Research &gt; Personas](https://lib.montana.edu/design-research/personas)
+
+Note:
+Who are we designing for? A lot of us use personas in our work. Think of personas like trading cards, where each card represents some type of user, like "undergraduate students majoring in science" or "parents of small children." The persona will have a summary of typical goals for that group of users and a choice quote that helps you summarize user needs, as well as an identity created to help you understand the demographics you are designing for. 
+
+These are some of the personas from Montana State University Library. They've done a really great job of documenting how they made these personas and how they use them.
+
+-----
+
+![Montana State University Library's Faculty Personas](img/montanapersona2.png)
+
+[Montana State Univesity Library: Design Research &gt; Personas](https://lib.montana.edu/design-research/personas)
+
+Note:
+Here are a few more. Do you notice anything about these personas? Anything they have in common?
+
+They're all smiling. The images that were chosen for these people are all happy images. Even the adjunct professor is smiling, even though he's making less than a barista at Starbucks!
+
+Are our users are super happy to be in the library? Are they all having terrific lives, and nothing is going to affect the work they do in our spaces, with our services or tools?
+
+-----
+
+![GVSU Personas](img/TK)
+
+Just so that you don't think I'm being too hard on Montana State, here are the smiling users on the personas I made for GVSU three years ago.
+
+Look around at personas. And not jst in libraries - everywhere. Personas are all smiling! Even when a user story isn't all happy (like the acknowledgment in Montana's adjunct persona that his contract is unpredictable) the user is smiling.
+
+This can subtly affect how you think of the users you are designing for. 
+
+-----
+
+<!-- .slide: data-background-image="img/mcgrane.jpg" -->
+
+### Who am I designing for? The expert automaton, programmed to complete each task flawlessly? Or the messy, error-prone, distracted human?
+
+#### Karen McGrane
+
+McGrane, K. (2011). Lesson. *The Manual (2)*. p.45
+
+Note:
+
+-----
+
+<!-- .slide: data-background-image="img/meyer.jpg" -->
+
+### You don't get to decide whether or not users in crisis want to use your site.
+
+#### Eric Meyer
+
+[Designing for Crisis with Eric Meyer, *The Web Ahead*, January 9, 2015](http://thewebahead.net/91)
+
+Note:
+
 
 -----
 
@@ -252,25 +317,7 @@ Note:
 
 
 
-<!-- .slide: data-background-image="img/mcgrane.jpg" -->
 
-### Who am I designing for? The expert automaton, programmed to complete each task flawlessly? Or the messy, error-prone, distracted human?
-
-#### Karen McGrane
-
-McGrane, K. (2011). Lesson. *The Manual (2)*. p.45
-
------
-
-<!-- .slide: data-background-image="img/meyer.jpg" -->
-
-### You don't get to decide whether or not users in crisis want to use your site.
-
-#### Eric Meyer
-
-[Designing for Crisis with Eric Meyer, *The Web Ahead*, January 9, 2015](http://thewebahead.net/91)
-
------
 
 <!-- .slide: data-background-image="img/ekstrom.jpg" -->
 
