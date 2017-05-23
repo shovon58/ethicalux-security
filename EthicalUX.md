@@ -67,11 +67,14 @@ Not literal representations of the values in the form of gods or statues or fres
 [Architecture is politics: The power and the perils of systems design](https://docs.google.com/presentation/d/180dMBG26xMYB9gfIotoUyCBQfO3XfmHiJGQjvn58GwY/edit?pref=2&pli=1#slide=id.gf03c9bb35_0_143)
 
 Note:
-This is true of all created things, not just architecture. In his insightful talk TK, UX Libs II alum Andreas Orphanides notes that nearly all created and designed things are systems, and systems are just models of reality. When we create any model of reality, TK
+This is true of all created things, not just architecture. In his insightful talk Architecture is Politics, UX Libs II alum Andreas Orphanides notes that nearly all created and designed things are systems, and systems are just models of reality. When we create any model of reality, we embed within that model all of our values and biases, whether we want to or not. So whether we set out like Palladius to encode our values literally on the pediments of our buildings, or we're just making software or services for library patrons on deadline, we're building systems that reflect our values, that inherently have opinions about what is right nd what is wrong.
 
 -----
 
 # <span style="font-family:Raleway;font-weight:100;">What are our</span><br /><span class="blue" style="font-size:1.8em;">Values?</span>
+
+Note:
+That's okay! You're saying. We want to help people! We are good designers! If that's the case, then what do our designs say about our values? What do our designs say is right, and what is wrong?
 
 -----
 
@@ -79,11 +82,17 @@ This is true of all created things, not just architecture. In his insightful tal
 
 Do we value our users over our prefered workflows?
 
+Note:
+Do our designs really care about our users, or are they built around our own preferred workflows, and the data we think is important?
+
 -----
 
 <img src="img/brooklyn.png" alt="Brooklyn Public Library Card Application" />
 
-[Brooklyn Public Library's Online Library Card Application](TK)
+[Brooklyn Public Library's Online Library Card Application](https://bpl.brooklynpubliclibrary.org/patron/registration.aspx)
+
+Note:
+When we do create tools that allow our users better access to our services, are we encoding them with care for our users? Do our designs respect our users' right to be themselves? To have privacy? 
 
 -----
 
@@ -91,13 +100,13 @@ Do we value our users over our prefered workflows?
 
 <img src="img/brklyn_gender.png" alt="Gender binary selector at Brooklyn Public Library" style="width: 50%; position: fixed; left: 25%; top: 35%;z-index: 100;" />
 
-Do we value our users' privacy over our fetish for data collection?
+Or does our fetish with data collection and our own views of how the world is get encoded in our designs, tripping up our users?
 
 -----
 
 ![Summon Topic Explorer result showing Women in the workforce being equated with stress](img/stressworkforce.png)
 
-Do we value accuracy and equity more than the appearance of relevance?
+When we build tools to help our users access resources and make sense of information, what values are being encoded into the designs? Do we value accuracy and equity more than the appearance of relevance?
 
 -----
 
@@ -239,7 +248,7 @@ McGrane, K. (2011). Lesson. *The Manual (2)*. p.45
 
 #### Eric Meyer
 
-[TK](http://thewebahead.net/91)
+[Designing for Crisis with Eric Meyer, *The Web Ahead*, January 9, 2015](http://thewebahead.net/91)
 
 -----
 
@@ -289,7 +298,7 @@ Gillespie, T. (2014). The Relevance of Algorithms. In T. Gillespie, P. Boczkowsk
 
 #### Mike Ananny
 
-[TK](https://www.theatlantic.com/technology/archive/2011/04/the-curious-connection-between-apps-for-gay-men-and-sex-offenders/237340/)
+[The Curious Connection Between Apps for Gay Men and Sex Offenders](https://www.theatlantic.com/technology/archive/2011/04/the-curious-connection-between-apps-for-gay-men-and-sex-offenders/237340/)
 
 -----
 
@@ -299,7 +308,7 @@ Gillespie, T. (2014). The Relevance of Algorithms. In T. Gillespie, P. Boczkowsk
 
 #### Manoush Zomorodi
 
-[TK](https://www.wnyc.org/story/bonus-privacy-paradox/)
+[Privacy, Data Survivalism and a New Tech Ethics, *Note to Self*, Feb 21, 2017](https://www.wnyc.org/story/bonus-privacy-paradox/)
 
 
 
