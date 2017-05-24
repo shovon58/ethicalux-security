@@ -266,6 +266,7 @@ Are our users are super happy to be in the library? Are they all having terrific
 
 ![GVSU Personas](img/TK)
 
+Note:
 Just so that you don't think I'm being too hard on Montana State, here are the smiling users on the personas I made for GVSU three years ago.
 
 Look around at personas. And not jst in libraries - everywhere. Personas are all smiling! Even when a user story isn't all happy (like the acknowledgment in Montana's adjunct persona that his contract is unpredictable) the user is smiling.
