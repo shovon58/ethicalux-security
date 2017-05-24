@@ -15,7 +15,7 @@ In the sixteenth century, the architect Andrea Palladio began work on the  "Vill
 Palladio himself was inspired by Ancient Rome, and how the architecture of that age reflected society's values. So, on the stairways and pediments of the Villa La Rotunda, he placed sculptures that embodied the values and ideals of Italian society in the guise of figures from Classical mythology. Not only did Palladio reflect ideal values in the orientation of the building and its proportions, but he literally represented these values as sculptures on the building's facade. 
 
 -----
-
+-
 ![Front page of Palladio's Four Books of Architecture, showing maidens of Architecture bowing to the Queen of Virtue](img/palladio.jpg)
 
 Andrea Palladio, *Four Books of Architecture* (1788, Isaac Ware, London). Front page.
@@ -44,13 +44,12 @@ Albert Speer's German pavillion from the 1937 World's Fair
 
 Note: 
 Albert Speer’s German pavillion for the 1937 World’s Fair, representing the German fascist government. 500 foot tall improsing, agressive tower of might.
-
------
+=p----/89+nj n-----
 
 ![Federal Republic of Germany’s 1958 world’s fair pavillion designed by Egon Eiermann](img/1958-2.jpg)
-
+12
 Egon Eiermann's Federal Republic of Germany pavillion for the 1958 World's Fair
-
++ v
 Note: 
 21 years later, the Federal Republic of Germany’s 1958 world’s fair pavillion designed by Egon Eiermann. de Botton: “horizontiality to suggest calm, lightness to imply gentleness, ans transparency to evoke democracy.”
 
@@ -232,11 +231,18 @@ Note:
 
 <!-- .slide: data-background-image="img/papanek.jpg" -->
 
-### [The designer’s] social and moral judgment must be brought into play long before [she] begins to design...In other words, will [her] design be on the side of the social good or not.
+### [The designer’s] social and moral judgment must be brought into play long before [she] begins to design.
 
 #### Victor Papanek
 
 Papanek, V. (1971). *Design for the Real World: Human ecology and social change*. New York: Pantheon Books. p. 45.
+
+Note:
+There is a *lot* we could talk about 
+
+-----
+
+# Personas
 
 -----
 
@@ -273,6 +279,18 @@ Look around at personas. And not jst in libraries - everywhere. Personas are all
 
 This can subtly affect how you think of the users you are designing for. 
 
+----
+
+<!-- .slide: data-background-image="img/meyer.jpg" -->
+
+### You don't get to decide whether or not users in crisis want to use your site.
+
+#### Eric Meyer
+
+[Designing for Crisis with Eric Meyer, *The Web Ahead*, January 9, 2015](http://thewebahead.net/91)
+
+Note:
+
 -----
 
 <!-- .slide: data-background-image="img/mcgrane.jpg" -->
@@ -287,16 +305,38 @@ Note:
 
 -----
 
-<!-- .slide: data-background-image="img/meyer.jpg" -->
+# Analytics
 
-### You don't get to decide whether or not users in crisis want to use your site.
+-----
 
-#### Eric Meyer
+<!-- .slide: data-background-image="img/ideo.jpg" -->
 
-[Designing for Crisis with Eric Meyer, *The Web Ahead*, January 9, 2015](http://thewebahead.net/91)
+### The goal of design research isn’t to collect data; it’s to synthesize information and provide insight and guidance that leads to action.
 
-Note:
+#### IDEO
 
+IDEO. (2016). *The Little Book of Design Research*, p.41
+
+-----
+
+<!-- .slide: data-background-image="img/galvan.jpg" -->
+
+### For all the data [Library software vendors] have about our users, you’d think we’d have beautifully customized product[s].
+
+#### Angela Galvan
+
+[Architecture of Authority](https://asgalvan.com/2016/12/05/architecture-of-authority/)
+
+
+-----
+
+<!-- .slide: data-background-image="img/salo.jpg" -->
+
+### The ALA Code of Ethics does not say: "We protect each library user's right to privacy and confidentiality ... except for Google Analytics."
+
+#### Dorthea Salo <br /><span style="font-size: .6em;">(Paraphrase by Eric Hellman)</span>
+
+[TK](https://www.youtube.com/watch?v=ZmRfyg3-YDc)
 
 -----
 
