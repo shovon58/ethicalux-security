@@ -5,56 +5,19 @@
 
 -----
 
-<!-- .slide: data-background-image="img/villarotunda.jpg" -->
+![Woodcut of farmers in North Carolina working in the fields with birds aflight behind them](img/puritanfarmers.jpg)
 
-Photograph: Stefan Bauer. [https://en.wikipedia.org/wiki/File:Villa_Rotonda_front.jpg](https://en.wikipedia.org/wiki/File:Villa_Rotonda_front.jpg)
-
-Note: 
-In the sixteenth century, the architect Andrea Palladio began work on the  "Villa La Rotunda," in Northern Italy. It is considered to be Palladio's master work, a summation of the ideas of one of the greatest architects in history. 
-
-Palladio himself was inspired by Ancient Rome, and how the architecture of that age reflected society's values. So, on the stairways and pediments of the Villa La Rotunda, he placed sculptures that embodied the values and ideals of Italian society in the guise of figures from Classical mythology. Not only did Palladio reflect ideal values in the orientation of the building and its proportions, but he literally represented these values as sculptures on the building's facade. 
-
------
-
-![Front page of Palladio's Four Books of Architecture, showing maidens of Architecture bowing to the Queen of Virtue](img/palladio.jpg)
-
-Andrea Palladio, *Four Books of Architecture* (1788, Isaac Ware, London). Front page.
+[http://ushistoryimages.com](http://ushistoryimages.com/images/north-carolina-colony/fullsize/north-carolina-colony-2.jpg)
 
 Note:
-Palladio's other great legacy was his book, *The Four Books of Architecture*. Two hundred years after his death, editions of the book were still being printed with a frontespiece depicting the maidens of Architecture paying homage to the "Queen of Virtue."
+In 17th century New England, life was hard. The Puritans, who had fled from England to settle in the wilderness of America, were adapting to the farming techniques they had learned from the Native Americans who had lived for centuries on the land. Both groups continued to face the same challenges, however, including marauding blackbirds that would eat seeds, shoots, leaves, fruit, and anything they could get their beaks on. The blackbirds appeared in such numbers that they could destroy acres of crops in just a day or two.
 
------
+Both the Puritans and the Native Americans designed solutions to address the growing blackbird problem. The Native Americans institutionalized the natural deterents they knew worked on blakbirds. They posted children in the fields and in watchtowers to frighten away the birds. They tamed hawks that they tied near the fields, with the ropes giving the hawks enough flight to catch brave blackbirds who dared to attack the crops. Te whole community pitched in to deter the pests and protect the fields.
 
-<!-- .slide: data-background-image="img/deBotton.jpg" -->
+The Puritans also brought the community into the solution they designed, but they did it in their own way. The General Court of Massachussets passed an ordinance requiring every citizen to kill at least 10 blackbirds and 2 crows a year. These were minimums, of course. You were encouraged to kill as many as you could. 
 
-### Political and ethical ideas can be written into window frames and door handles.
+How did these two groups come up ith such radically different approaches to the same problem?
 
-#### Alain de Botton
-
-de Botton, A. (2006). *The Architecture of Happiness*. New York: Vintage International. p.93
-
-Note:
-This wasn't an unusual proposition, that created things reflected societal values. Architects and artists from the Ancient Romans on through Palladio and his heirs intentionally crafted their ideal values into their creations. (Whether the men and women that lived out their lives under these symbolic ideals lived up to them is another question.)
-
------
-
-<img alt="Albert Speer's German pavillion from the 1937 World's Fair" src="img/02k.jpg" style="width: 700px" />
-
-Albert Speer's German pavillion from the 1937 World's Fair
-
-Note: 
-Albert Speer’s German pavillion for the 1937 World’s Fair, representing the German fascist government. 500 foot tall improsing, agressive tower of might.
-
------
-
-![Federal Republic of Germany’s 1958 world’s fair pavillion designed by Egon Eiermann](img/1958-2.jpg)
-
-Egon Eiermann's Federal Republic of Germany pavillion for the 1958 World's Fair
-
-Note: 
-21 years later, the Federal Republic of Germany’s 1958 world’s fair pavillion designed by Egon Eiermann. de Botton: “horizontiality to suggest calm, lightness to imply gentleness, ans transparency to evoke democracy.”
-
-Not literal representations of the values in the form of gods or statues or frescos, but potent representations of the values of those who created them nonetheless.
 
 -----
 
@@ -67,7 +30,40 @@ Not literal representations of the values in the form of gods or statues or fres
 [Goodman, P. (1969). Can Technology Be Humane? *New York Review of Books*, Nov. 20, 1969](http://www.nybooks.com/articles/1969/11/20/can-technology-be-humane)
 
 Note:
-This is true of all created things, not just architecture. Long before the internet, the social critic Paul Goodman associated all forms of technology with moral philosophy rather than science, something that seems almost inconcievable to us today. But his point was that creating or designing new things involved moral choices first and foremost. Because as we create new things, we are shaping the kinds of experiences, and therefore the kinds of choices and lives that users of our designs will face.
+The late social critic Paul Goodman wrote about technology in the broadest sense of "knowledge applied to practical ends," in other words, design. Design solutions, designed services, designed products and tools. And creating those things, he argued, involved moral choices first and foremost. Because as we create new things, we are shaping the kinds of experiences, and therefore the kinds of choices and lives, that users of our designs will face.
+
+Neither the Puritans nor the Native Americans were trying very hard to be innovative here. To the best of our knowledge, no one held an ideation session with post it notes in a moldering wig wam or drafty shack in Eastern Massachussets. These solutions to a problem were designed based on each groups most closely held values. Those values were never explicitly examined or questioned, and the soutions were not examined for potentially disasterous consequences.
+
+-----
+
+<img alt="Albert Speer's German pavillion from the 1937 World's Fair" src="img/02k.jpg" style="width: 700px" />
+
+Albert Speer's German pavillion from the 1937 World's Fair
+
+Note: 
+Let's look at another example. This is the German Pavillion, designed by Albert Speer, for the 1937 World's Fair, representing Germany's fascist government. A pavillion has a very different purpose than a plan to protect farmland. It has functional purposes, but it also represents the values and ideals of the creators explicitly. We can assume that Speer was pretty deliberate in building this 500 foot tall imposing, agressive tower of might to convey a set of values the government stood for. It's a monument to oppression and power.
+
+-----
+
+![Federal Republic of Germany’s 1958 world’s fair pavillion designed by Egon Eiermann](img/1958-2.jpg)
+
+Egon Eiermann's Federal Republic of Germany pavillion for the 1958 World's Fair
+
+Note: 
+21 years later, Egon Eiermann designed the World's Fair pavillion for the Federal Republic of Germany’s in 1958. It emphasizes horizontiality to suggest calm, lightness to imply gentleness, and transparency to evoke democracy. It was a statement to the world about the values of the new German government.
+
+-----
+
+<!-- .slide: data-background-image="img/deBotton.jpg" -->
+
+### Political and ethical ideas can be written into window frames and door handles.
+
+#### Alain de Botton
+
+de Botton, A. (2006). *The Architecture of Happiness*. New York: Vintage International. p.93
+
+Note:
+This isn't an unusual proposition, that created things reflected societal values. Designers and artists from the Ancient Romans to today craft ideal values into their creations. (Whether the men and women that lived out their lives under these symbolic ideals lived up to them is another question.)
 
 -----
 
@@ -80,7 +76,17 @@ This is true of all created things, not just architecture. Long before the inter
 [Architecture is politics: The power and the perils of systems design](https://docs.google.com/presentation/d/180dMBG26xMYB9gfIotoUyCBQfO3XfmHiJGQjvn58GwY/edit?pref=2&pli=1#slide=id.gf03c9bb35_0_143)
 
 Note:
- In his insightful talk Architecture is Politics, UX Libs II alum Andreas Orphanides notes that nearly all created and designed things are systems, and systems are just models of reality. When we create any model of reality, we embed within that model all of our values and biases, whether we want to or not. So whether we set out like Palladius to encode our values literally on the pediments of our buildings, or we're just making software or services for library patrons on deadline, we're building systems that reflect our values, that inherently have opinions about what is right nd what is wrong.
+ In his insightful talk Architecture is Politics, UX Libs alum Andreas Orphanides notes that nearly all created and designed things embed within them the values and biases or theior creators, whether we intend to or not. We're building systems that reflect our values, that inherently take stances about what is right and what is wrong.
+
+-----
+
+<!-- .slide data-background-image="img/dash.jpg" -->
+
+### The closest thing Web designers have to HIPPA or an ethical code is “move fast and break things.”
+
+#### Anil Dash
+
+[Privacy, Data Survivalism and a New Tech Ethics, *Note to Self*, Feb 21, 2017](https://www.wnyc.org/story/bonus-privacy-paradox/)
 
 -----
 
