@@ -12,17 +12,11 @@
 Note:
 In 17th century New England, life was hard. The Puritans, who had fled from England to settle in the wilderness of America, were adapting to the farming techniques they had learned from the Native Americans who had lived for centuries on the land. Both groups continued to face the same challenges, however, including marauding blackbirds that would eat seeds, shoots, leaves, fruit, and anything they could get their beaks on. The blackbirds appeared in such numbers that they could destroy acres of crops in just a day or two.
 
-<<<<<<< HEAD
 Both the Puritans and the Native Americans designed solutions to address the growing blackbird problem. The Native Americans institutionalized the natural deterents they knew worked on blakbirds. They posted children in the fields and in watchtowers to frighten away the birds. They tamed hawks that they tied near the fields, with the ropes giving the hawks enough flight to catch brave blackbirds who dared to attack the crops. Te whole community pitched in to deter the pests and protect the fields.
 
 The Puritans also brought the community into the solution they designed, but they did it in their own way. The General Court of Massachussets passed an ordinance requiring every citizen to kill at least 10 blackbirds and 2 crows a year. These were minimums, of course. You were encouraged to kill as many as you could. 
 
------
-
-![Front page of Palladio's Four Books of Architecture, showing maidens of Architecture bowing to the Queen of Virtue](img/palladio.jpg)
-
 How did these two groups come up ith such radically different approaches to the same problem?
-
 
 -----
 
@@ -93,6 +87,16 @@ Note:
 #### Anil Dash
 
 [Privacy, Data Survivalism and a New Tech Ethics, *Note to Self*, Feb 21, 2017](https://www.wnyc.org/story/bonus-privacy-paradox/)
+
+Note:
+
+-----
+
+![Map of countries with library ethics statements](img/ethicsmap.jpg)
+
+[IFLA: Professional Codes of Ethics for Librarians](https://www.ifla.org/faife/professional-codes-of-ethics-for-librarians)
+
+Note:
 
 -----
 
