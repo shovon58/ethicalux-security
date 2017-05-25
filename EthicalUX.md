@@ -12,9 +12,14 @@
 Note:
 In 17th century New England, life was hard. The Puritans, who had fled from England to settle in the wilderness of America, were adapting to the farming techniques they had learned from the Native Americans who had lived for centuries on the land. Both groups continued to face the same challenges, however, including marauding blackbirds that would eat seeds, shoots, leaves, fruit, and anything they could get their beaks on. The blackbirds appeared in such numbers that they could destroy acres of crops in just a day or two.
 
+<<<<<<< HEAD
 Both the Puritans and the Native Americans designed solutions to address the growing blackbird problem. The Native Americans institutionalized the natural deterents they knew worked on blakbirds. They posted children in the fields and in watchtowers to frighten away the birds. They tamed hawks that they tied near the fields, with the ropes giving the hawks enough flight to catch brave blackbirds who dared to attack the crops. Te whole community pitched in to deter the pests and protect the fields.
 
 The Puritans also brought the community into the solution they designed, but they did it in their own way. The General Court of Massachussets passed an ordinance requiring every citizen to kill at least 10 blackbirds and 2 crows a year. These were minimums, of course. You were encouraged to kill as many as you could. 
+
+-----
+
+![Front page of Palladio's Four Books of Architecture, showing maidens of Architecture bowing to the Queen of Virtue](img/palladio.jpg)
 
 How did these two groups come up ith such radically different approaches to the same problem?
 
@@ -41,6 +46,7 @@ Neither the Puritans nor the Native Americans were trying very hard to be innova
 Albert Speer's German pavillion from the 1937 World's Fair
 
 Note: 
+
 Let's look at another example. This is the German Pavillion, designed by Albert Speer, for the 1937 World's Fair, representing Germany's fascist government. A pavillion has a very different purpose than a plan to protect farmland. It has functional purposes, but it also represents the values and ideals of the creators explicitly. We can assume that Speer was pretty deliberate in building this 500 foot tall imposing, agressive tower of might to convey a set of values the government stood for. It's a monument to oppression and power.
 
 -----
@@ -238,11 +244,18 @@ Note:
 
 <!-- .slide: data-background-image="img/papanek.jpg" -->
 
-### [The designer’s] social and moral judgment must be brought into play long before [she] begins to design...In other words, will [her] design be on the side of the social good or not.
+### [The designer’s] social and moral judgment must be brought into play long before [she] begins to design.
 
 #### Victor Papanek
 
 Papanek, V. (1971). *Design for the Real World: Human ecology and social change*. New York: Pantheon Books. p. 45.
+
+Note:
+There is a *lot* we could talk about 
+
+-----
+
+# Personas
 
 -----
 
@@ -279,6 +292,18 @@ Look around at personas. And not jst in libraries - everywhere. Personas are all
 
 This can subtly affect how you think of the users you are designing for. 
 
+----
+
+<!-- .slide: data-background-image="img/meyer.jpg" -->
+
+### You don't get to decide whether or not users in crisis want to use your site.
+
+#### Eric Meyer
+
+[Designing for Crisis with Eric Meyer, *The Web Ahead*, January 9, 2015](http://thewebahead.net/91)
+
+Note:
+
 -----
 
 <!-- .slide: data-background-image="img/mcgrane.jpg" -->
@@ -293,16 +318,38 @@ Note:
 
 -----
 
-<!-- .slide: data-background-image="img/meyer.jpg" -->
+# Analytics
 
-### You don't get to decide whether or not users in crisis want to use your site.
+-----
 
-#### Eric Meyer
+<!-- .slide: data-background-image="img/ideo.jpg" -->
 
-[Designing for Crisis with Eric Meyer, *The Web Ahead*, January 9, 2015](http://thewebahead.net/91)
+### The goal of design research isn’t to collect data; it’s to synthesize information and provide insight and guidance that leads to action.
 
-Note:
+#### IDEO
 
+IDEO. (2016). *The Little Book of Design Research*, p.41
+
+-----
+
+<!-- .slide: data-background-image="img/galvan.jpg" -->
+
+### For all the data [Library software vendors] have about our users, you’d think we’d have beautifully customized product[s].
+
+#### Angela Galvan
+
+[Architecture of Authority](https://asgalvan.com/2016/12/05/architecture-of-authority/)
+
+
+-----
+
+<!-- .slide: data-background-image="img/salo.jpg" -->
+
+### The ALA Code of Ethics does not say: "We protect each library user's right to privacy and confidentiality ... except for Google Analytics."
+
+#### Dorthea Salo <br /><span style="font-size: .6em;">(Paraphrase by Eric Hellman)</span>
+
+[TK](https://www.youtube.com/watch?v=ZmRfyg3-YDc)
 
 -----
 
