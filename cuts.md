@@ -67,17 +67,28 @@ https://en.wikipedia.org/wiki/File:Jon_Postel_sitting_in_office.jpg
 
 <!-- .slide: data-background-image="img/papanek.jpg" -->
 
-### [The designer’s] social and moral judgment must be brought into play long before [she] begins to design...
+### [The designer’s] social and moral judgment must be brought into play long before [she] begins to design...In other words, will [her] design be on the side of the social good or not.
 
 #### Victor Papanek
 
 Papanek, V. (1971). *Design for the Real World: Human ecology and social change*. New York: Pantheon Books. p. 45.
 
+
+-----
+
+### The library world has been far too gullible, far too willing to regard any technical advance as a service advance.
+
+#### Jonathan D. Lauer & Steve McKinzie
+
+Lauer, J. & McKinzie, S. (2002/2003). Bad moon rising: a candid examination of digital reference and what it means to the profession. *The Reference Librarian*, 79/80, 46.
+
+Note:
+
 -----
 
 <!-- .slide: data-background-image="img/papanek.jpg" -->
 
-### In other words, will [her] design be on the side of the social good or not.
+### t.
 
 #### Victor Papanek
 
@@ -146,4 +157,36 @@ At the end of my talk, I called
 ----
 
 # <span style="display:inline;font-family:Raleway;font-weight:100;">Design for</span><br /><span class="blue" style="font-size: 1.4em;">Failure</span>
+
+-----
+
+<!-- .slide: data-background-image="img/villarotunda.jpg" -->
+
+Photograph: Stefan Bauer. [https://en.wikipedia.org/wiki/File:Villa_Rotonda_front.jpg](https://en.wikipedia.org/wiki/File:Villa_Rotonda_front.jpg)
+
+Note: 
+In the sixteenth century, the architect Andrea Palladio began work on the  "Villa La Rotunda," in Northern Italy. It is considered to be Palladio's master work, a summation of the ideas of one of the greatest architects in history. 
+
+Palladio himself was inspired by Ancient Rome, and how the architecture of that age reflected society's values. So, on the stairways and pediments of the Villa La Rotunda, he placed sculptures that embodied the values and ideals of Italian society in the guise of figures from Classical mythology. Not only did Palladio reflect ideal values in the orientation of the building and its proportions, but he literally represented these values as sculptures on the building's facade. 
+
+-----
+
+![Front page of Palladio's Four Books of Architecture, showing maidens of Architecture bowing to the Queen of Virtue](img/palladio.jpg)
+
+Andrea Palladio, *Four Books of Architecture* (1788, Isaac Ware, London). Front page.
+
+Note:
+Palladio's other great legacy was his book, *The Four Books of Architecture*. Two hundred years after his death, editions of the book were still being printed with a frontespiece depicting the maidens of Architecture paying homage to the "Queen of Virtue."
+
+-----
+
+<!-- .slide: data-background-image="img/postel.jpg" -->
+
+### Robustness Principle: Be conservative in what you do, be liberal in what you accept from others.
+
+#### John Postel
+
+[DOD Standard: Transmission Control Protocol, January 1980](https://tools.ietf.org/html/rfc761#page-13)
+
+Note:
 

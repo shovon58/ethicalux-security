@@ -157,16 +157,6 @@ Note:
 
 -----
 
-### The library world has been far too gullible, far too willing to regard any technical advance as a service advance.
-
-#### Jonathan D. Lauer & Steve McKinzie
-
-Lauer, J. & McKinzie, S. (2002/2003). Bad moon rising: a candid examination of digital reference and what it means to the profession. *The Reference Librarian*, 79/80, 46.
-
-Note:
-
------
-
 <!-- .slide: data-background-image="img/hanson.png" -->
 
 ### Our expertise, our service ethic, and our values remain our greatest strengths. 
@@ -242,7 +232,7 @@ Note:
 
 -----
 
-# Ethical <span class="blue">Design</span>
+# Ethical <span class="blue">Design</span> <br />Research
 
 -----
 
@@ -255,7 +245,53 @@ Note:
 Papanek, V. (1971). *Design for the Real World: Human ecology and social change*. New York: Pantheon Books. p. 45.
 
 Note:
-There is a *lot* we could talk about 
+Focus on people over data
+
+-----
+
+# Analytics &amp; Data Collection
+
+-----
+
+<!-- .slide: data-background-image="img/ideo.jpg" -->
+
+### The goal of design research isn’t to collect data; it’s to synthesize information and provide insight and guidance that leads to action.
+
+#### IDEO
+
+IDEO. (2016). *The Little Book of Design Research*, p.41
+
+-----
+
+<!-- .slide: data-background-image="img/galvan.jpg" -->
+
+### For all the data [Library software vendors] have about our users, you’d think we’d have beautifully customized product[s].
+
+#### Angela Galvan
+
+[Architecture of Authority](https://asgalvan.com/2016/12/05/architecture-of-authority/)
+
+-----
+
+<!-- .slide: data-background-image="img/salo.jpg" -->
+
+### The ALA Code of Ethics does not say: "We protect each library user's right to privacy and confidentiality ... except for Google Analytics."
+
+#### Dorthea Salo <br /><span style="font-size: .6em;">(Paraphrase by Eric Hellman)</span>
+
+[TK](https://www.youtube.com/watch?v=ZmRfyg3-YDc)
+
+-----
+
+<!-- .slide: data-background-image="chimero.jpg" -->
+
+### Remove a person's humanity, and she is just a curiosity, a pinpoint on a map, a line in a list, an entry in a database. A person turns into a granular bit of information.
+
+#### Frank Chimero
+
+Chimero, F. (TK). The Space Between You and Me. *The Manual, 1*. p. 19
+
+Note:
 
 -----
 
@@ -296,6 +332,19 @@ Look around at personas. And not jst in libraries - everywhere. Personas are all
 
 This can subtly affect how you think of the users you are designing for. 
 
+
+-----
+
+<!-- .slide: data-background-image="img/mcgrane.jpg" -->
+
+### Who am I designing for? The expert automaton, programmed to complete each task flawlessly? Or the messy, error-prone, distracted human?
+
+#### Karen McGrane
+
+McGrane, K. (2011). Lesson. *The Manual (2)*. p.45
+
+Note:
+
 ----
 
 <!-- .slide: data-background-image="img/meyer.jpg" -->
@@ -310,82 +359,15 @@ Note:
 
 -----
 
-<!-- .slide: data-background-image="img/mcgrane.jpg" -->
-
-### Who am I designing for? The expert automaton, programmed to complete each task flawlessly? Or the messy, error-prone, distracted human?
-
-#### Karen McGrane
-
-McGrane, K. (2011). Lesson. *The Manual (2)*. p.45
-
-Note:
+# Design Goals
 
 -----
 
-# Analytics
+# Ethical <span class="blue">Design</span> <br />Solutions
 
 -----
 
-<!-- .slide: data-background-image="img/ideo.jpg" -->
-
-### The goal of design research isn’t to collect data; it’s to synthesize information and provide insight and guidance that leads to action.
-
-#### IDEO
-
-IDEO. (2016). *The Little Book of Design Research*, p.41
-
------
-
-<!-- .slide: data-background-image="img/galvan.jpg" -->
-
-### For all the data [Library software vendors] have about our users, you’d think we’d have beautifully customized product[s].
-
-#### Angela Galvan
-
-[Architecture of Authority](https://asgalvan.com/2016/12/05/architecture-of-authority/)
-
-
------
-
-<!-- .slide: data-background-image="img/salo.jpg" -->
-
-### The ALA Code of Ethics does not say: "We protect each library user's right to privacy and confidentiality ... except for Google Analytics."
-
-#### Dorthea Salo <br /><span style="font-size: .6em;">(Paraphrase by Eric Hellman)</span>
-
-[TK](https://www.youtube.com/watch?v=ZmRfyg3-YDc)
-
------
-
-<!-- .slide: data-background-image="img/postel.jpg" -->
-
-### Robustness Principle: Be conservative in what you do, be liberal in what you accept from others.
-
-#### John Postel
-
-[DOD Standard: Transmission Control Protocol, January 1980](https://tools.ietf.org/html/rfc761#page-13)
-
-Note:
-
-
-
------
-
-<!-- Personas, privacy, accuracy & equity -->
-
-
-
-
-
-<!-- .slide: data-background-image="img/ekstrom.jpg" -->
-
-### Behind every algorithm is always a person, a person with a set of personal beliefs that no code can ever completely eradicate.
-
-#### Andreas Ekström
-
-[The Moral Bias Behind Your Search Results](https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results)
-
-
+# Relevance
 
 -----
 
@@ -417,6 +399,21 @@ Gillespie, T. (2014). The Relevance of Algorithms. In T. Gillespie, P. Boczkowsk
 
 [The Curious Connection Between Apps for Gay Men and Sex Offenders](https://www.theatlantic.com/technology/archive/2011/04/the-curious-connection-between-apps-for-gay-men-and-sex-offenders/237340/)
 
+
+-----
+
+# Algorithms
+
+-----
+
+<!-- .slide: data-background-image="img/ekstrom.jpg" -->
+
+### Behind every algorithm is always a person, a person with a set of personal beliefs that no code can ever completely eradicate.
+
+#### Andreas Ekström
+
+[The Moral Bias Behind Your Search Results](https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results)
+
 -----
 
 <!-- .slide: data-background-image="img/hall.jpg" -->
@@ -436,6 +433,22 @@ Hall, E. (2013). *Just Enough Research*. New York: A Book Apart. p. 79
 #### Manoush Zomorodi
 
 [Privacy, Data Survivalism and a New Tech Ethics, *Note to Self*, Feb 21, 2017](https://www.wnyc.org/story/bonus-privacy-paradox/)
+
+-----
+
+# Performance
+
+-----
+
+<!-- .slide: data-background-image="img/bowles.jpg" -->
+
+### Is great UX worth the impact of the landfill?
+
+#### Cennydd Bowles
+
+[The Ethical Designer](TK)
+
+Note:
 
 -----
 
