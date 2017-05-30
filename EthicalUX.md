@@ -5,33 +5,24 @@
 
 -----
 
-![Woodcut of farmers in North Carolina working in the fields with birds aflight behind them](img/puritanfarmers.jpg)
+<!-- .slide: data-background-image="img/villarotunda.jpg" -->
 
-[http://ushistoryimages.com](http://ushistoryimages.com/images/north-carolina-colony/fullsize/north-carolina-colony-2.jpg)
+Photograph: Stefan Bauer. [https://en.wikipedia.org/wiki/File:Villa_Rotonda_front.jpg](https://en.wikipedia.org/wiki/File:Villa_Rotonda_front.jpg)
 
-Note:
-In 17th century New England, life was hard. The Puritans, who had fled from England to settle in the wilderness of America, were adapting to the farming techniques they had learned from the Native Americans who had lived for centuries on the land. Both groups continued to face the same challenges, however, including marauding blackbirds that would eat seeds, shoots, leaves, fruit, and anything they could get their beaks on. The blackbirds appeared in such numbers that they could destroy acres of crops in just a day or two.
+Note: 
+In the sixteenth century, the architect Andrea Palladio began work on the  "Villa La Rotunda," in Northern Italy. It is considered to be Palladio's master work, a summation of the ideas of one of the greatest architects in history. 
 
-Both the Puritans and the Native Americans designed solutions to address the growing blackbird problem. The Native Americans institutionalized the natural deterents they knew worked on blakbirds. They posted children in the fields and in watchtowers to frighten away the birds. They tamed hawks that they tied near the fields, with the ropes giving the hawks enough flight to catch brave blackbirds who dared to attack the crops. Te whole community pitched in to deter the pests and protect the fields.
-
-The Puritans also brought the community into the solution they designed, but they did it in their own way. The General Court of Massachussets passed an ordinance requiring every citizen to kill at least 10 blackbirds and 2 crows a year. These were minimums, of course. You were encouraged to kill as many as you could. 
-
-How did these two groups come up ith such radically different approaches to the same problem?
+Palladio himself was inspired by Ancient Rome, and how the architecture of that age reflected society's values. So, on the stairways and pediments of the Villa La Rotunda, he placed sculptures that embodied the values and ideals of Italian society in the guise of figures from Classical mythology. Not only did Palladio reflect ideal values in the orientation of the building and its proportions, but he literally represented these values as sculptures on the building's facade. 
 
 -----
 
-<!-- .slide: data-background-image="img/goodman.jpg" -->
+![Front page of Palladio's Four Books of Architecture, showing maidens of Architecture bowing to the Queen of Virtue](img/palladio.jpg)
 
-### Technology is a branch of moral philosophy, not of science.
-
-#### Paul Goodman
-
-[Goodman, P. (1969). Can Technology Be Humane? *New York Review of Books*, Nov. 20, 1969](http://www.nybooks.com/articles/1969/11/20/can-technology-be-humane)
+Andrea Palladio, *Four Books of Architecture* (1788, Isaac Ware, London). Front page.
 
 Note:
-The late social critic Paul Goodman wrote about technology in the broadest sense of "knowledge applied to practical ends," in other words, design. Design solutions, designed services, designed products and tools. And creating those things, he argued, involved moral choices first and foremost. Because as we create new things, we are shaping the kinds of experiences, and therefore the kinds of choices and lives, that users of our designs will face.
+Palladio's other great legacy was his book, *The Four Books of Architecture*. Two hundred years after his death, editions of the book were still being printed with a frontespiece depicting the maidens of Architecture paying homage to the "Queen of Virtue."
 
-Neither the Puritans nor the Native Americans were trying very hard to be innovative here. To the best of our knowledge, no one held an ideation session with post it notes in a moldering wig wam or drafty shack in Eastern Massachussets. These solutions to a problem were designed based on each groups most closely held values. Those values were never explicitly examined or questioned, and the soutions were not examined for potentially disasterous consequences.
 
 -----
 
@@ -64,6 +55,37 @@ de Botton, A. (2006). *The Architecture of Happiness*. New York: Vintage Interna
 
 Note:
 This isn't an unusual proposition, that created things reflected societal values. Designers and artists from the Ancient Romans to today craft ideal values into their creations. (Whether the men and women that lived out their lives under these symbolic ideals lived up to them is another question.)
+
+-----
+
+![Woodcut of farmers in North Carolina working in the fields with birds aflight behind them](img/puritanfarmers.jpg)
+
+[http://ushistoryimages.com](http://ushistoryimages.com/images/north-carolina-colony/fullsize/north-carolina-colony-2.jpg)
+
+Note:
+In 17th century New England, life was hard. The Puritans, who had fled from England to settle in the wilderness of America, were adapting to the farming techniques they had learned from the Native Americans who had lived for centuries on the land. Both groups continued to face the same challenges, however, including marauding blackbirds that would eat seeds, shoots, leaves, fruit, and anything they could get their beaks on. The blackbirds appeared in such numbers that they could destroy acres of crops in just a day or two.
+
+Both the Puritans and the Native Americans designed solutions to address the growing blackbird problem. The Native Americans institutionalized the natural deterents they knew worked on blakbirds. They posted children in the fields and in watchtowers to frighten away the birds. They tamed hawks that they tied near the fields, with the ropes giving the hawks enough flight to catch brave blackbirds who dared to attack the crops. Te whole community pitched in to deter the pests and protect the fields.
+
+The Puritans also brought the community into the solution they designed, but they did it in their own way. The General Court of Massachussets passed an ordinance requiring every citizen to kill at least 10 blackbirds and 2 crows a year. These were minimums, of course. You were encouraged to kill as many as you could. 
+
+How did these two groups come up ith such radically different approaches to the same problem?
+
+-----
+
+<!-- .slide: data-background-image="img/goodman.jpg" -->
+
+### Technology is a branch of moral philosophy, not of science.
+
+#### Paul Goodman
+
+[Goodman, P. (1969). Can Technology Be Humane? *New York Review of Books*, Nov. 20, 1969](http://www.nybooks.com/articles/1969/11/20/can-technology-be-humane)
+
+Note:
+The late social critic Paul Goodman wrote about technology in the broadest sense of "knowledge applied to practical ends," in other words, design. Design solutions, designed services, designed products and tools. And creating those things, he argued, involved moral choices first and foremost. Because as we create new things, we are shaping the kinds of experiences, and therefore the kinds of choices and lives, that users of our designs will face.
+
+Neither the Puritans nor the Native Americans were trying very hard to be innovative here. To the best of our knowledge, no one held an ideation session with post it notes in a moldering wig wam or drafty shack in Eastern Massachussets. These solutions to a problem were designed based on each groups most closely held values. Those values were never explicitly examined or questioned, and the soutions were not examined for potentially disasterous consequences.
+
 
 -----
 
@@ -196,6 +218,16 @@ Note:
 
 -----
 
+<!-- .slide: data-background-image="img/pohl.jpg" -->
+
+### A good science fiction story should be able to predict not the automobile, but the traffic jam.
+
+#### Frederic Pohl
+
+&nbsp;
+
+-----
+
 ![Image of Facebook Year in review as seen by Eric Meyer in 2015](img/fb-year.png)
 
 [Inadvertent Algorithmic Cruelty, by Eric Meyer](http://meyerweb.com/eric/thoughts/2014/12/24/inadvertent-algorithmic-cruelty/)
@@ -232,10 +264,6 @@ Note:
 
 -----
 
-# Ethical <span class="blue">Design</span> <br />Research
-
------
-
 <!-- .slide: data-background-image="img/papanek.jpg" -->
 
 ### [The designer’s] social and moral judgment must be brought into play long before [she] begins to design.
@@ -249,7 +277,11 @@ Focus on people over data
 
 -----
 
-# Analytics &amp; Data Collection
+# Ethical <span class="blue">Design</span> <br /><span class="raleway">Research</span>
+
+-----
+
+# <span class="blue">Analytics</span> &amp; Data Collection
 
 -----
 
@@ -299,6 +331,16 @@ Note:
 
 -----
 
+<!-- .slide: data-background-image="img/hall.jpg" -->
+
+### By designing for yourself or your team, you are potentially building discrimination right into your product.
+
+#### Erica Hall
+
+Hall, E. (2013). *Just Enough Research*. New York: A Book Apart. p. 79
+
+-----
+
 ![Montana State University Library's Student Personas](img/montanapersona1.png)
 
 [Montana State Univesity Library: Design Research &gt; Personas](https://lib.montana.edu/design-research/personas)
@@ -323,18 +365,6 @@ Are our users are super happy to be in the library? Are they all having terrific
 
 -----
 
-![GVSU Personas](img/TK)
-
-Note:
-Just so that you don't think I'm being too hard on Montana State, here are the smiling users on the personas I made for GVSU three years ago.
-
-Look around at personas. And not jst in libraries - everywhere. Personas are all smiling! Even when a user story isn't all happy (like the acknowledgment in Montana's adjunct persona that his contract is unpredictable) the user is smiling.
-
-This can subtly affect how you think of the users you are designing for. 
-
-
------
-
 <!-- .slide: data-background-image="img/mcgrane.jpg" -->
 
 ### Who am I designing for? The expert automaton, programmed to complete each task flawlessly? Or the messy, error-prone, distracted human?
@@ -345,7 +375,18 @@ McGrane, K. (2011). Lesson. *The Manual (2)*. p.45
 
 Note:
 
-----
+-----
+
+![GVSU Personas](img/TK)
+
+Note:
+Just so that you don't think I'm being too hard on Montana State, here are the smiling users on the personas I made for GVSU three years ago.
+
+Look around at personas. And not jst in libraries - everywhere. Personas are all smiling! Even when a user story isn't all happy (like the acknowledgment in Montana's adjunct persona that his contract is unpredictable) the user is smiling.
+
+This can subtly affect how you think of the users you are designing for. 
+
+-----
 
 <!-- .slide: data-background-image="img/meyer.jpg" -->
 
@@ -363,7 +404,7 @@ Note:
 
 -----
 
-# Ethical <span class="blue">Design</span> <br />Solutions
+# Ethical <span class="blue">Design</span> <br /><span class="raleway">Solutions</span>
 
 -----
 
@@ -414,15 +455,7 @@ Gillespie, T. (2014). The Relevance of Algorithms. In T. Gillespie, P. Boczkowsk
 
 [The Moral Bias Behind Your Search Results](https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results)
 
------
 
-<!-- .slide: data-background-image="img/hall.jpg" -->
-
-### By designing for yourself or your team, you are potentially building discrimination right into your product.
-
-#### Erica Hall
-
-Hall, E. (2013). *Just Enough Research*. New York: A Book Apart. p. 79
 
 -----
 
