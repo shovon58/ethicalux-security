@@ -184,4 +184,13 @@ Note:
 
 [TK](https://www.youtube.com/watch?v=ZmRfyg3-YDc)
 
+-----
+
+<!-- .slide: data-background-image="img/zomorodi.jpg" -->
+
+### You need to have diverse people to get diverse algorithms.
+
+#### Manoush Zomorodi
+
+[Privacy, Data Survivalism and a New Tech Ethics, *Note to Self*, Feb 21, 2017](https://www.wnyc.org/story/bonus-privacy-paradox/)
 

@@ -129,20 +129,16 @@ That's okay! You're saying. We want to help people! We are good designers! If th
 
 -----
 
-![III Encore with JavaScript disabled demands that you turn JavaScript on](img/encore.png)
-
-Do we value our users more than our desire to exploit new technologies?
-
-Note:
-
------
-
 ![Auto-suggest on Ex Libris' Primo suggesting child sex literature for a search on children's literature](img/primo.png)
 
 Do we value our users' trust as much as the appearance of convenience?
 
 Note:
 Do our designs really care about our users, or are they built around our own preferred workflows, and the data we think is important?
+
+-----
+
+
 
 -----
 
@@ -172,6 +168,22 @@ Do we value accuracy and equity more than the appearance of relevance?
 
 Note:
 When we build tools to help our users access resources and make sense of information, what values are being encoded into the designs? Do we value accuracy and equity more than the appearance of relevance?
+
+-----
+
+![III Encore with JavaScript disabled demands that you turn JavaScript on](img/encore.png)
+
+Do we value our users more than our desire to exploit new technologies?
+
+Note:
+
+-----
+
+![Screenshot of Illiad tutorial](img/paste_citations.jpg)
+
+Do we respect our users more than our own workflows?
+
+Note:
 
 -----
 
@@ -408,7 +420,21 @@ Note:
 
 -----
 
-# Relevance
+# Algorithms
+
+-----
+
+<!-- .slide: data-background-image="img/ekstrom.jpg" -->
+
+### Behind every algorithm is always a person, a person with a set of personal beliefs that no code can ever completely eradicate.
+
+#### Andreas Ekström
+
+[The Moral Bias Behind Your Search Results](https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results)
+
+
+
+
 
 -----
 
@@ -439,33 +465,6 @@ Gillespie, T. (2014). The Relevance of Algorithms. In T. Gillespie, P. Boczkowsk
 #### Mike Ananny
 
 [The Curious Connection Between Apps for Gay Men and Sex Offenders](https://www.theatlantic.com/technology/archive/2011/04/the-curious-connection-between-apps-for-gay-men-and-sex-offenders/237340/)
-
-
------
-
-# Algorithms
-
------
-
-<!-- .slide: data-background-image="img/ekstrom.jpg" -->
-
-### Behind every algorithm is always a person, a person with a set of personal beliefs that no code can ever completely eradicate.
-
-#### Andreas Ekström
-
-[The Moral Bias Behind Your Search Results](https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results)
-
-
-
------
-
-<!-- .slide: data-background-image="img/zomorodi.jpg" -->
-
-### You need to have diverse people to get diverse algorithms.
-
-#### Manoush Zomorodi
-
-[Privacy, Data Survivalism and a New Tech Ethics, *Note to Self*, Feb 21, 2017](https://www.wnyc.org/story/bonus-privacy-paradox/)
 
 -----
 
