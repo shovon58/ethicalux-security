@@ -100,29 +100,10 @@ Neither the Puritans nor the Native Americans were trying very hard to be innova
 Note:
  In his insightful talk Architecture is Politics, UX Libs alum Andreas Orphanides notes that nearly all created and designed things embed within them the values and biases or theior creators, whether we intend to or not. We're building systems that reflect our values, that inherently take stances about what is right and what is wrong.
 
------
 
-<!-- .slide: data-background-image="img/dash.jpg" -->
-
-### The closest thing Web designers have to HIPPA or an ethical code is “move fast and break things.”
-
-#### Anil Dash
-
-[Privacy, Data Survivalism and a New Tech Ethics, *Note to Self*, Feb 21, 2017](https://www.wnyc.org/story/bonus-privacy-paradox/)
-
-Note:
 
 -----
-
-![Map of countries with library ethics statements](img/ethicsmap.jpg)
-
-[IFLA: Professional Codes of Ethics for Librarians](https://www.ifla.org/faife/professional-codes-of-ethics-for-librarians)
-
-Note:
-
------
-
-# Equitable <span class="blue" style="font-size:1.8em;display:block;margin-top:.2em;margin-bottom:.2em;">Access</span> <span style="font-family:Raleway;font-weight:100;display:block;">For All</span>
+# <span style="font-family:Raleway;font-weight:100;">What are our</span><br /><span class="blue" style="font-size:1.8em;">Values?</span>
 
 Note:
 That's okay! You're saying. We want to help people! We are good designers! If that's the case, then what do our designs say about our values? What do our designs say is right, and what is wrong?
@@ -314,6 +295,16 @@ IDEO. (2016). *The Little Book of Design Research*, p.41
 #### Angela Galvan
 
 [Architecture of Authority](https://asgalvan.com/2016/12/05/architecture-of-authority/)
+
+-----
+
+<!-- .slide: data-background-image="img/salo.jpg" -->
+
+### The ALA Code of Ethics does not say: "We protect each library user's right to privacy and confidentiality ... except for Google Analytics."
+
+#### Dorthea Salo <br /><span style="font-size: .6em;">(Paraphrase by Eric Hellman)</span>
+
+[Ain't Nobody's Business If I Do (Read Serials)](https://www.youtube.com/watch?v=ZmRfyg3-YDc)
 
 -----
 

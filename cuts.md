@@ -215,3 +215,23 @@ Note:
 [The Ethical Designer](https://www.youtube.com/watch?v=SB_GDF-mKTE)
 
 Note:
+
+-----
+
+<!-- .slide: data-background-image="img/dash.jpg" -->
+
+### The closest thing Web designers have to HIPPA or an ethical code is “move fast and break things.”
+
+#### Anil Dash
+
+[Privacy, Data Survivalism and a New Tech Ethics, *Note to Self*, Feb 21, 2017](https://www.wnyc.org/story/bonus-privacy-paradox/)
+
+Note:
+
+-----
+
+![Map of countries with library ethics statements](img/ethicsmap.jpg)
+
+[IFLA: Professional Codes of Ethics for Librarians](https://www.ifla.org/faife/professional-codes-of-ethics-for-librarians)
+
+Note:
