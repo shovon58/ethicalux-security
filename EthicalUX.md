@@ -315,7 +315,7 @@ IDEO. (2016). *The Little Book of Design Research*, p.41
 
 -----
 
-<!-- .slide: data-background-image="chimero.jpg" -->
+<!-- .slide: data-background-image="img/chimero.jpg" -->
 
 ### Remove a person's humanity, and she is just a curiosity, a pinpoint on a map, a line in a list, an entry in a database. A person turns into a granular bit of information.
 
@@ -327,7 +327,7 @@ Note:
 
 -----
 
-# Personas
+# <span class="blue">Personas</span>
 
 -----
 
