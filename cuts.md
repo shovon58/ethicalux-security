@@ -174,3 +174,14 @@ At the end of my talk, I called
 
 Note:
 
+-----
+
+<!-- .slide: data-background-image="img/salo.jpg" -->
+
+### The ALA Code of Ethics does not say: "We protect each library user's right to privacy and confidentiality ... except for Google Analytics."
+
+#### Dorthea Salo <br /><span style="font-size: .6em;">(Paraphrase by Eric Hellman)</span>
+
+[TK](https://www.youtube.com/watch?v=ZmRfyg3-YDc)
+
+

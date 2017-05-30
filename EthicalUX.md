@@ -129,9 +129,9 @@ That's okay! You're saying. We want to help people! We are good designers! If th
 
 -----
 
-![GVSU IT Chat bot refusing to answer unless you give a phone number](img/gvsuitchat.png)
+![Auto-suggest on Ex Libris' Primo suggesting child sex literature for a search on children's literature](img/primo.png)
 
-Do we value our users over our prefered workflows?
+Do we value our users' trust as much as the appearance of convenience?
 
 Note:
 Do our designs really care about our users, or are they built around our own preferred workflows, and the data we think is important?
@@ -305,23 +305,13 @@ IDEO. (2016). *The Little Book of Design Research*, p.41
 
 -----
 
-<!-- .slide: data-background-image="img/salo.jpg" -->
-
-### The ALA Code of Ethics does not say: "We protect each library user's right to privacy and confidentiality ... except for Google Analytics."
-
-#### Dorthea Salo <br /><span style="font-size: .6em;">(Paraphrase by Eric Hellman)</span>
-
-[TK](https://www.youtube.com/watch?v=ZmRfyg3-YDc)
-
------
-
 <!-- .slide: data-background-image="img/chimero.jpg" -->
 
 ### Remove a person's humanity, and she is just a curiosity, a pinpoint on a map, a line in a list, an entry in a database. A person turns into a granular bit of information.
 
 #### Frank Chimero
 
-Chimero, F. (TK). The Space Between You and Me. *The Manual, 1*. p. 19
+Chimero, F. (2011). The Space Between You and Me. *The Manual, 1*. p. 19
 
 Note:
 
@@ -378,6 +368,8 @@ Note:
 -----
 
 ![GVSU Personas](img/gvsupersonas.jpg)
+
+[Smiling GVSU Personas](http://libguides.gvsu.edu/styleguide/understandingusers)
 
 Note:
 Just so that you don't think I'm being too hard on Montana State, here are the smiling users on the personas I made for GVSU three years ago.
@@ -479,7 +471,7 @@ Gillespie, T. (2014). The Relevance of Algorithms. In T. Gillespie, P. Boczkowsk
 
 #### Cennydd Bowles
 
-[The Ethical Designer](TK)
+[The Ethical Designer](https://www.youtube.com/watch?v=SB_GDF-mKTE)
 
 Note:
 
