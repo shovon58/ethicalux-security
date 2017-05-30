@@ -129,6 +129,14 @@ That's okay! You're saying. We want to help people! We are good designers! If th
 
 -----
 
+![III Encore with JavaScript disabled demands that you turn JavaScript on](img/encore.png)
+
+Do we value our users more than our desire to exploit new technologies?
+
+Note:
+
+-----
+
 ![Auto-suggest on Ex Libris' Primo suggesting child sex literature for a search on children's literature](img/primo.png)
 
 Do we value our users' trust as much as the appearance of convenience?
