@@ -377,7 +377,7 @@ Note:
 
 -----
 
-![GVSU Personas](img/TK)
+![GVSU Personas](img/gvsupersonas.jpg)
 
 Note:
 Just so that you don't think I'm being too hard on Montana State, here are the smiling users on the personas I made for GVSU three years ago.
