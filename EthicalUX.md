@@ -1,5 +1,5 @@
 
-# Ethical <span class="raleway blue" style="font-size: 3.25em; line-height:.7em;">UX</span>
+# <span class="raleway" style="letter-spacing:.08em;margin-left:.15em;">Ethical</span> <span class="blue" style="font-size: 3.25em; line-height:.7em;">UX</span>
 
 <p style="text-transform:uppercase;">Matthew Reidsma // <span class="blue">Grand Valley State University</span></p>
 
@@ -277,11 +277,11 @@ Focus on people over data
 
 -----
 
-# Ethical <span class="blue">Design</span> <br /><span class="raleway">Research</span>
+# <span class="blue">Ethical</span> <span class="raleway" style="display:block;">UX Research</span>
 
 -----
 
-# <span class="blue">Analytics</span> &amp; Data Collection
+# <span class="blue"">Analytics</span>
 
 -----
 
