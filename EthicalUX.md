@@ -427,6 +427,7 @@ Gillespie, T. (2014). The Relevance of Algorithms. In T. Gillespie, P. Boczkowsk
 
 Gillespie, T. (2014). The Relevance of Algorithms. In T. Gillespie, P. Boczkowski & K. Foot (Eds.), Media Technologies: Essays on Communication, Materiality, and Society. Cambridge, MA: MIT Press. p. 175
 
+
 -----
 
 ![Screenshot of Summon search showing heart attack equated with myocardial infarction](img/heartattack.png)
@@ -445,7 +446,11 @@ Equating Virginity with Sexual Abstinence
 
 Implying that mental illness is a myth
 
+-----
 
+![Search suggestion of NY City waste as NY city women](img/waste.jpg)
+
+[From Damn You, Autosuggest](http://damnyouautosuggest.tumblr.com/post/114699603389/oh-go-to-hell)
 -----
 
 <!-- .slide: data-background-image="img/ananny.jpg" -->
