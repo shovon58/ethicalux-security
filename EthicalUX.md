@@ -281,7 +281,7 @@ Focus on people over data
 
 -----
 
-# <span class="blue"">Analytics</span>
+# <span class="blue">Analytics</span>
 
 -----
 
