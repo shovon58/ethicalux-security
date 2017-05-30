@@ -186,11 +186,32 @@ Note:
 
 -----
 
-<!-- .slide: data-background-image="img/zomorodi.jpg" -->
+-----
 
-### You need to have diverse people to get diverse algorithms.
+# Performance
 
-#### Manoush Zomorodi
+-----
 
-[Privacy, Data Survivalism and a New Tech Ethics, *Note to Self*, Feb 21, 2017](https://www.wnyc.org/story/bonus-privacy-paradox/)
+<!-- .slide: data-background-image="img/bowles.jpg" -->
 
+### Is great UX worth the impact of the landfill?
+
+#### Cennydd Bowles
+
+[The Ethical Designer](https://www.youtube.com/watch?v=SB_GDF-mKTE)
+
+Note:
+
+# Performance
+
+-----
+
+<!-- .slide: data-background-image="img/bowles.jpg" -->
+
+### Is great UX worth the impact of the landfill?
+
+#### Cennydd Bowles
+
+[The Ethical Designer](https://www.youtube.com/watch?v=SB_GDF-mKTE)
+
+Note:

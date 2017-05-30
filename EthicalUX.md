@@ -134,11 +134,6 @@ That's okay! You're saying. We want to help people! We are good designers! If th
 Do we value our users' trust as much as the appearance of convenience?
 
 Note:
-Do our designs really care about our users, or are they built around our own preferred workflows, and the data we think is important?
-
------
-
-
 
 -----
 
@@ -184,6 +179,7 @@ Note:
 Do we respect our users more than our own workflows?
 
 Note:
+Pass.
 
 -----
 
@@ -297,10 +293,6 @@ Focus on people over data
 
 -----
 
-# <span class="blue">Ethical</span> <span class="raleway" style="display:block;">UX Research</span>
-
------
-
 # <span class="blue">Analytics</span>
 
 -----
@@ -364,7 +356,7 @@ These are some of the personas from Montana State University Library. They've do
 
 ![Montana State University Library's Faculty Personas](img/montanapersona2.png)
 
-[Montana State Univesity Library: Design Research &gt; Personas](https://lib.montana.edu/design-research/personas)
+[Montana State University Library: Design Research &gt; Personas](https://lib.montana.edu/design-research/personas)
 
 Note:
 Here are a few more. Do you notice anything about these personas? Anything they have in common?
@@ -394,7 +386,7 @@ Note:
 Note:
 Just so that you don't think I'm being too hard on Montana State, here are the smiling users on the personas I made for GVSU three years ago.
 
-Look around at personas. And not jst in libraries - everywhere. Personas are all smiling! Even when a user story isn't all happy (like the acknowledgment in Montana's adjunct persona that his contract is unpredictable) the user is smiling.
+Look around at personas. And not just in libraries - everywhere. Personas are all smiling! Even when a user story isn't all happy (like the acknowledgment in Montana's adjunct persona that his contract is unpredictable) the user is smiling.
 
 This can subtly affect how you think of the users you are designing for. 
 
@@ -412,15 +404,7 @@ Note:
 
 -----
 
-# Design Goals
-
------
-
-# Ethical <span class="blue">Design</span> <br /><span class="raleway">Solutions</span>
-
------
-
-# Algorithms
+# <span class="blue">Algorithms</span>
 
 -----
 
@@ -431,10 +415,6 @@ Note:
 #### Andreas Ekström
 
 [The Moral Bias Behind Your Search Results](https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results)
-
-
-
-
 
 -----
 
@@ -458,6 +438,25 @@ Gillespie, T. (2014). The Relevance of Algorithms. In T. Gillespie, P. Boczkowsk
 
 -----
 
+![Screenshot of Summon search showing heart attack equated with myocardial infarction](img/heartattack.png)
+
+Topic Explorer Example
+
+-----
+
+![Screenshot of Summon search showing virginity equated with sexual abstinence](img/virginity.png)
+
+Equating Virginity with Sexual Abstinence
+
+-----
+
+![Screenshot of Summon search showing mental illness equated with a myth](img/mentalillness.png)
+
+Implying that mental illness is a myth
+
+
+-----
+
 <!-- .slide: data-background-image="img/ananny.jpg" -->
 
 ### Reckless associations—made by humans or computers—can do very real harm especially when they appear in supposedly neutral environments.
@@ -468,19 +467,14 @@ Gillespie, T. (2014). The Relevance of Algorithms. In T. Gillespie, P. Boczkowsk
 
 -----
 
-# Performance
+<!-- .slide: data-background-image="img/zomorodi.jpg" -->
 
------
+### You need to have diverse people to get diverse algorithms.
 
-<!-- .slide: data-background-image="img/bowles.jpg" -->
+#### Manoush Zomorodi
 
-### Is great UX worth the impact of the landfill?
+[Privacy, Data Survivalism and a New Tech Ethics, *Note to Self*, Feb 21, 2017](https://www.wnyc.org/story/bonus-privacy-paradox/)
 
-#### Cennydd Bowles
-
-[The Ethical Designer](https://www.youtube.com/watch?v=SB_GDF-mKTE)
-
-Note:
 
 -----
 
