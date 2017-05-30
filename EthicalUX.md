@@ -102,7 +102,7 @@ Note:
 
 -----
 
-<!-- .slide data-background-image="img/dash.jpg" -->
+<!-- .slide: data-background-image="img/dash.jpg" -->
 
 ### The closest thing Web designers have to HIPPA or an ethical code is “move fast and break things.”
 
@@ -122,7 +122,7 @@ Note:
 
 -----
 
-# <span style="font-family:Raleway;font-weight:100;">What are our</span><br /><span class="blue" style="font-size:1.8em;">Values?</span>
+# Equitable <span class="blue" style="font-size:1.8em;display:block;margin-top:.2em;margin-bottom:.2em;">Access</span> <span style="font-family:Raleway;font-weight:100;display:block;">For All</span>
 
 Note:
 That's okay! You're saying. We want to help people! We are good designers! If that's the case, then what do our designs say about our values? What do our designs say is right, and what is wrong?
