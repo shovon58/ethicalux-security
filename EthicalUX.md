@@ -112,7 +112,7 @@ That's okay! You're saying. We want to help people! We are good designers! If th
 
 ![Auto-suggest on Ex Libris' Primo suggesting child sex literature for a search on children's literature](img/primo.png)
 
-Do we value our users' trust as much as the appearance of convenience?
+Do we value our users' trust as much as the appearance of convenience? ([From @Nadaleen](https://twitter.com/Nadaleen/status/730116596728012800/photo/1))
 
 Note:
 
@@ -451,6 +451,7 @@ Implying that mental illness is a myth
 ![Search suggestion of NY City waste as NY city women](img/waste.jpg)
 
 [From Damn You, Autosuggest](http://damnyouautosuggest.tumblr.com/post/114699603389/oh-go-to-hell)
+
 -----
 
 <!-- .slide: data-background-image="img/ananny.jpg" -->
