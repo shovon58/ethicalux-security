@@ -227,3 +227,27 @@ Note:
 [IFLA: Professional Codes of Ethics for Librarians](https://www.ifla.org/faife/professional-codes-of-ethics-for-librarians)
 
 Note:
+
+-----
+
+![Image of Facebook Year in review as seen by Eric Meyer in 2015](img/fb-year.png)
+
+[Inadvertent Algorithmic Cruelty, by Eric Meyer](http://meyerweb.com/eric/thoughts/2014/12/24/inadvertent-algorithmic-cruelty/)
+
+Note:
+In 2014, Facebook designers launched a new feature called Year in Review. They chose the image that had the most interactions on your timeline that year and presented it to you as the cover of a slideshow, highlighting what an awesome year you've had. 
+
+In the summer of 2014 Eric Meyer lost his 6-year-old daughter to cancer. At the end of that year Facebook offered to show him his year with images of clip art party goers dancing around the face of his daughter.
+
+-----
+
+<!-- .slide: data-background-image="img/meyer.jpg" -->
+
+### The failure wasn’t in their design, but in the narrowness of their vision.
+
+#### Eric Meyer
+
+Meyer, E. and Wachter-Boettcher, S. (2016). *Design for Real Life*. New York:  A Book Apart. p.9
+
+Note:
+As Meyer notes in his book, *Design for Real Life*, the idea itself wasn't so bad. But the assumptions the designers made about their users betrayed their ignorance.

@@ -229,29 +229,6 @@ Note:
 
 &nbsp;
 
------
-
-![Image of Facebook Year in review as seen by Eric Meyer in 2015](img/fb-year.png)
-
-[Inadvertent Algorithmic Cruelty, by Eric Meyer](http://meyerweb.com/eric/thoughts/2014/12/24/inadvertent-algorithmic-cruelty/)
-
-Note:
-In 2014, Facebook designers launched a new feature called Year in Review. They chose the image that had the most interactions on your timeline that year and presented it to you as the cover of a slideshow, highlighting what an awesome year you've had. 
-
-In the summer of 2014 Eric Meyer lost his 6-year-old daughter to cancer. At the end of that year Facebook offered to show him his year with images of clip art party goers dancing around the face of his daughter.
-
------
-
-<!-- .slide: data-background-image="img/meyer.jpg" -->
-
-### The failure wasn’t in their design, but in the narrowness of their vision.
-
-#### Eric Meyer
-
-Meyer, E. and Wachter-Boettcher, S. (2016). *Design for Real Life*. New York:  A Book Apart. p.9
-
-Note:
-As Meyer notes in his book, *Design for Real Life*, the idea itself wasn't so bad. But the assumptions the designers made about their users betrayed their ignorance.
 
 -----
 
@@ -452,15 +429,15 @@ Equating Virginity with Sexual Abstinence
 
 -----
 
-![Screenshot of Summon search showing mental illness equated with a myth](img/mentalillness.png)
-
-Implying that mental illness is a myth
-
------
-
 ![Search suggestion of NY City waste as NY city women](img/waste.jpg)
 
 [From Damn You, Autosuggest](http://damnyouautosuggest.tumblr.com/post/114699603389/oh-go-to-hell)
+
+-----
+
+![Screenshot of Summon search equating rape with hearsay evidence](img/rapeintheus.png)
+
+Implying that rape accusations are akin to Hearsay evidence?
 
 -----
 
@@ -485,7 +462,7 @@ Implying that mental illness is a myth
 
 -----
 
-<!-- .slide: data-background-image="img/soylent.jpg" -->
+<!-- .slide: data-background-image="img/soylent.jpg" data-transition="fade-in" data-transition-speed="slow" -->
 
 # <span class="raleway">Your Library is</span> <span class="blue" style="display:block;font-size:2em;">People</span>
 
