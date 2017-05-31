@@ -316,7 +316,7 @@ Note:
 
 -----
 
-![Screenshot of Analytics on Demand by Gale](img/gale.png)
+![Screenshot of Analytics on Demand by Gale](img/gale.jpg)
 
 [Analytics on Demand](http://solutions.cengage.com/analytics/)
 
@@ -324,7 +324,7 @@ Note:
 
 <!-- .slide: data-background-image="img/gale2.png" -->
 
-### Remove a person's humanity, and she is just a curiosity, a pinpoint on a map
+### Remove a person's humanity, and she is just a curiosity, a pinpoint on a map...
 
 Chimero, F. (2011). The Space Between You and Me. *The Manual, 1*. p. 19
 
