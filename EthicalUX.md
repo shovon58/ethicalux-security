@@ -180,7 +180,7 @@ Note:
 
 -----
 
-<!-- .slide: data-background-image="img/hanson.png" data-transition="fade-out" data-transition-speed="slow" -->
+<!-- .slide: data-background-image="img/hanson.png"  -->
 
 ### But for us to have the impact we seek in the lives of our users, we must encode our services and our values in the software we provide.
 
