@@ -58,18 +58,12 @@ This isn't an unusual proposition, that created things reflected societal values
 
 -----
 
-![Woodcut of farmers in North Carolina working in the fields with birds aflight behind them](img/puritanfarmers.jpg)
+![Example of how gerrymandering can allow a minority of voters to win the majorituy of seats in an election by Steven Nass](img/stealanelection.jpg)
 
-[http://ushistoryimages.com](http://ushistoryimages.com/images/north-carolina-colony/fullsize/north-carolina-colony-2.jpg)
+[Steven Nass, CC-BY 4.0](https://en.wikipedia.org/wiki/File:How_to_Steal_an_Election_-_Gerrymandering.svg)
 
 Note:
-In 17th century New England, life was hard. The Puritans, who had fled from England to settle in the wilderness of America, were adapting to the farming techniques they had learned from the Native Americans who had lived for centuries on the land. Both groups continued to face the same challenges, however, including marauding blackbirds that would eat seeds, shoots, leaves, fruit, and anything they could get their beaks on. The blackbirds appeared in such numbers that they could destroy acres of crops in just a day or two.
 
-Both the Puritans and the Native Americans designed solutions to address the growing blackbird problem. The Native Americans institutionalized the natural deterents they knew worked on blakbirds. They posted children in the fields and in watchtowers to frighten away the birds. They tamed hawks that they tied near the fields, with the ropes giving the hawks enough flight to catch brave blackbirds who dared to attack the crops. Te whole community pitched in to deter the pests and protect the fields.
-
-The Puritans also brought the community into the solution they designed, but they did it in their own way. The General Court of Massachussets passed an ordinance requiring every citizen to kill at least 10 blackbirds and 2 crows a year. These were minimums, of course. You were encouraged to kill as many as you could. 
-
-How did these two groups come up ith such radically different approaches to the same problem?
 
 -----
 
@@ -83,8 +77,6 @@ How did these two groups come up ith such radically different approaches to the 
 
 Note:
 The late social critic Paul Goodman wrote about technology in the broadest sense of "knowledge applied to practical ends," in other words, design. Design solutions, designed services, designed products and tools. And creating those things, he argued, involved moral choices first and foremost. Because as we create new things, we are shaping the kinds of experiences, and therefore the kinds of choices and lives, that users of our designs will face.
-
-Neither the Puritans nor the Native Americans were trying very hard to be innovative here. To the best of our knowledge, no one held an ideation session with post it notes in a moldering wig wam or drafty shack in Eastern Massachussets. These solutions to a problem were designed based on each groups most closely held values. Those values were never explicitly examined or questioned, and the soutions were not examined for potentially disasterous consequences.
 
 
 -----
@@ -188,7 +180,7 @@ Note:
 
 -----
 
-<!-- .slide: data-background-image="img/hanson.png" -->
+<!-- .slide: data-background-image="img/hanson.png" data-transition="fade-out" data-transition-speed="slow" -->
 
 ### But for us to have the impact we seek in the lives of our users, we must encode our services and our values in the software we provide.
 
@@ -199,6 +191,10 @@ Note:
 Note:
 
 -----
+
+-----
+
+<!-- .slide: data-transition="fade-in" data-transition-speed="slow" -->
 
 # Ethical <span class="blue">Design</span>
 
@@ -320,6 +316,20 @@ Note:
 
 -----
 
+![Screenshot of Analytics on Demand by Gale](img/gale.png)
+
+[Analytics on Demand](http://solutions.cengage.com/analytics/)
+
+-----
+
+<!-- .slide: data-background-image="img/gale2.png" -->
+
+### Remove a person's humanity, and she is just a curiosity, a pinpoint on a map
+
+Chimero, F. (2011). The Space Between You and Me. *The Manual, 1*. p. 19
+
+-----
+
 # <span class="blue">Personas</span>
 
 -----
@@ -411,11 +421,11 @@ Note:
 
 <!-- .slide: data-background-image="img/gillespie.jpg" -->
 
-### 'Relevant' is a fluid and loaded judgment...quick clicks and no follow-up searches [are] an approximation, not of relevance exactly, but of satisfaction.
+### Quick clicks and no follow-up searches [are] an approximation, not of relevance exactly, but of satisfaction.
 
 #### Tarleton Gillespie
 
-Gillespie, T. (2014). The Relevance of Algorithms. In T. Gillespie, P. Boczkowski & K. Foot (Eds.), Media Technologies: Essays on Communication, Materiality, and Society. Cambridge, MA: MIT Press. p. 175
+Gillespie, T. (2014). The Relevance of Algorithms. In T. Gillespie, P. Boczkowski & K. Foot (Eds.), *Media Technologies: Essays on Communication, Materiality, and Society*. Cambridge, MA: MIT Press. p. 175
 
 
 -----
@@ -465,7 +475,7 @@ Implying that mental illness is a myth
 
 -----
 
-<!-- slide: data-background-image="img/soylent.jpg" -->
+<!-- .slide: data-background-image="img/soylent.jpg" -->
 
 # <span class="raleway">Your Library is</span> <span class="blue" style="display:block;font-size:2em;">People</span>
 
