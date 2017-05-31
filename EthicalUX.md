@@ -64,6 +64,11 @@ This isn't an unusual proposition, that created things reflected societal values
 
 Note:
 
+-----
+
+![Slide from Mike Monteiro's talk How to Fight Fascism showing North Carolina's 12th Congressional District](img/nc12.png)
+
+[From *How to Fight Fascism* by Mike Monteiro](https://speakerdeck.com/inuse/how-to-fight-fascism-mike-monteiro?slide=5)
 
 -----
 
@@ -78,6 +83,11 @@ Note:
 Note:
 The late social critic Paul Goodman wrote about technology in the broadest sense of "knowledge applied to practical ends," in other words, design. Design solutions, designed services, designed products and tools. And creating those things, he argued, involved moral choices first and foremost. Because as we create new things, we are shaping the kinds of experiences, and therefore the kinds of choices and lives, that users of our designs will face.
 
+-----
+
+### <span class="blue">Design</span> is a branch of moral philosophy, not of science.
+
+#### &nbsp;
 
 -----
 
