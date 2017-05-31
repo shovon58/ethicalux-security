@@ -58,7 +58,7 @@ This isn't an unusual proposition, that created things reflected societal values
 
 -----
 
-![Example of how gerrymandering can allow a minority of voters to win the majorituy of seats in an election by Steven Nass](img/stealanelection.jpg)
+![Example of how gerrymandering can allow a minority of voters to win the majorituy of seats in an election by Steven Nass](img/stealelection.png)
 
 [Steven Nass, CC-BY 4.0](https://en.wikipedia.org/wiki/File:How_to_Steal_an_Election_-_Gerrymandering.svg)
 
