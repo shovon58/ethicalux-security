@@ -411,17 +411,7 @@ Note:
 
 <!-- .slide: data-background-image="img/gillespie.jpg" -->
 
-### 'Relevant' is a fluid and loaded judgment...engineers must decide what looks 'right' and tweak their algorithm to attain that result.
-
-#### Tarleton Gillespie
-
-Gillespie, T. (2014). The Relevance of Algorithms. In T. Gillespie, P. Boczkowski & K. Foot (Eds.), Media Technologies: Essays on Communication, Materiality, and Society. Cambridge, MA: MIT Press. p. 175
-
------
-
-<!-- .slide: data-background-image="img/gillespie.jpg" -->
-
-### ...or make changes based on evidence from their users, treating quick clicks and no follow-up searches as an approximation, not of relevance exactly, but of satisfaction.
+### 'Relevant' is a fluid and loaded judgment...quick clicks and no follow-up searches [are] an approximation, not of relevance exactly, but of satisfaction.
 
 #### Tarleton Gillespie
 
@@ -472,6 +462,12 @@ Implying that mental illness is a myth
 
 [Privacy, Data Survivalism and a New Tech Ethics, *Note to Self*, Feb 21, 2017](https://www.wnyc.org/story/bonus-privacy-paradox/)
 
+
+-----
+
+<!-- slide: data-background-image="img/soylent.jpg" -->
+
+# <span class="raleway">Your Library is</span> <span class="blue" style="display:block;font-size:2em;">People</span>
 
 -----
 
