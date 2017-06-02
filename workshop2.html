@@ -50,13 +50,13 @@
 					<h1>Pick a <span class="blue">Partner</span></h1>
 				</section>
 				<section>
-					<h1><span class="raleway"><img src="img/rock.png" />Rock,</span> <span style="display:block;"><img src="img/paper.png" />Paper,</span> <span class="blue" style="display:block;"><img src="img/scissors.png" />Scissors</span></h1>
+					<h1><span class="raleway"><img src="img/rock.png" />Rock</span> <span style="display:block;"><img src="img/paper.png" />Paper</span> <span class="blue" style="display:block;"><img src="img/scissors.png" />Scissors</span></h1>
 
 					<p><a href="https://designthinkingformuseums.net/2014/02/18/using-improv-games-3-of-3/">Adapted from Design Thinking for Museums</a> // Images by <a href="https://openclipart.org/detail/213382/rockpaperscissors">OpenClipArt.org</a></p>
 				</section>
 
 				<section style="text-align:left;">
-					<h2><span class="blue rps">Rock</span> <span class="beats">beats Scissors</span><br /> &<span class="blue rps"><img src="img/paper.png" />&nbsp;Paper</span> <span class="beats">beats Rock</span><br /> <span class="blue rps">Scissors</span> <span class="beats">beats Paper</span></h2>
+					<h2><span class="blue rps">Rock</span> <span class="beats">beats Scissors</span><br /><span class="blue rps">Paper</span> <span class="beats">beats Rock</span><br /> <span class="blue rps">Scissors</span> <span class="beats">beats Paper</span></h2>
 
 					<p><a href="https://designthinkingformuseums.net/2014/02/18/using-improv-games-3-of-3/">Adapted from Design Thinking for Museums</a></p>
 				</section>
@@ -79,7 +79,7 @@
 
 				
 				<section>
-					<h1><span class="raleway">How do you</span> <span class="blue" style="display:block;font-size:2.25em;">feel?</span></h1>
+					<h1><span class="raleway">How do you</span> <span class="blue" style="display:block;font-size:2.25em;margin-top:.1em">feel?</span></h1>
 
 					<p><a href="https://designthinkingformuseums.net/2014/02/03/improv-games-2/">Adapted from Design Thinking for Museums</a></p>
 
@@ -328,6 +328,152 @@
 			        seconds = seconds < 10 ? "0" + seconds : seconds;
 
 			        document.querySelector('#timer1').textContent = minutes + ":" + seconds;
+
+			        if (--timer < 0) {
+			            timer = 0;
+			        }
+			    }, 1000);
+			} );
+			Reveal.addEventListener('timer3', function() {
+				console.log('Started timer on #timer3');
+				var duration = 60 * 3;
+    			var timer = duration, minutes, seconds;
+			    setInterval(function () {
+			        minutes = parseInt(timer / 60, 10)
+			        seconds = parseInt(timer % 60, 10);
+
+			        minutes = minutes < 10 ? minutes : minutes;
+			        seconds = seconds < 10 ? "0" + seconds : seconds;
+
+			        document.querySelector('#timer3').textContent = minutes + ":" + seconds;
+
+			        if (--timer < 0) {
+			            timer = 0;
+			        }
+			    }, 1000);
+			} );
+
+Reveal.addEventListener('timer4', function() {
+				console.log('Started timer on #timer4');
+				var duration = 60 * 3;
+    			var timer = duration, minutes, seconds;
+			    setInterval(function () {
+			        minutes = parseInt(timer / 60, 10)
+			        seconds = parseInt(timer % 60, 10);
+
+			        minutes = minutes < 10 ? minutes : minutes;
+			        seconds = seconds < 10 ? "0" + seconds : seconds;
+
+			        document.querySelector('#timer4').textContent = minutes + ":" + seconds;
+
+			        if (--timer < 0) {
+			            timer = 0;
+			        }
+			    }, 1000);
+			} );
+
+Reveal.addEventListener('timer5', function() {
+				console.log('Started timer on #timer5');
+				var duration = 60 * 5;
+    			var timer = duration, minutes, seconds;
+			    setInterval(function () {
+			        minutes = parseInt(timer / 60, 10)
+			        seconds = parseInt(timer % 60, 10);
+
+			        minutes = minutes < 10 ? minutes : minutes;
+			        seconds = seconds < 10 ? "0" + seconds : seconds;
+
+			        document.querySelector('#timer5').textContent = minutes + ":" + seconds;
+
+			        if (--timer < 0) {
+			            timer = 0;
+			        }
+			    }, 1000);
+			} );
+Reveal.addEventListener('timer6', function() {
+				console.log('Started timer on #timer6');
+				var duration = 60 * 3;
+    			var timer = duration, minutes, seconds;
+			    setInterval(function () {
+			        minutes = parseInt(timer / 60, 10)
+			        seconds = parseInt(timer % 60, 10);
+
+			        minutes = minutes < 10 ? minutes : minutes;
+			        seconds = seconds < 10 ? "0" + seconds : seconds;
+
+			        document.querySelector('#timer6').textContent = minutes + ":" + seconds;
+
+			        if (--timer < 0) {
+			            timer = 0;
+			        }
+			    }, 1000);
+			} );
+Reveal.addEventListener('timer7', function() {
+				console.log('Started timer on #timer7');
+				var duration = 60 * 3;
+    			var timer = duration, minutes, seconds;
+			    setInterval(function () {
+			        minutes = parseInt(timer / 60, 10)
+			        seconds = parseInt(timer % 60, 10);
+
+			        minutes = minutes < 10 ? minutes : minutes;
+			        seconds = seconds < 10 ? "0" + seconds : seconds;
+
+			        document.querySelector('#timer7').textContent = minutes + ":" + seconds;
+
+			        if (--timer < 0) {
+			            timer = 0;
+			        }
+			    }, 1000);
+			} );
+Reveal.addEventListener('timer8', function() {
+				console.log('Started timer on #timer8');
+				var duration = 60 * 5;
+    			var timer = duration, minutes, seconds;
+			    setInterval(function () {
+			        minutes = parseInt(timer / 60, 10)
+			        seconds = parseInt(timer % 60, 10);
+
+			        minutes = minutes < 10 ? minutes : minutes;
+			        seconds = seconds < 10 ? "0" + seconds : seconds;
+
+			        document.querySelector('#timer8').textContent = minutes + ":" + seconds;
+
+			        if (--timer < 0) {
+			            timer = 0;
+			        }
+			    }, 1000);
+			} );
+Reveal.addEventListener('timer9', function() {
+				console.log('Started timer on #timer9');
+				var duration = 60 * 2;
+    			var timer = duration, minutes, seconds;
+			    setInterval(function () {
+			        minutes = parseInt(timer / 60, 10)
+			        seconds = parseInt(timer % 60, 10);
+
+			        minutes = minutes < 10 ? minutes : minutes;
+			        seconds = seconds < 10 ? "0" + seconds : seconds;
+
+			        document.querySelector('#timer9').textContent = minutes + ":" + seconds;
+
+			        if (--timer < 0) {
+			            timer = 0;
+			        }
+			    }, 1000);
+			} );
+Reveal.addEventListener('timer10', function() {
+				console.log('Started timer on #timer10');
+				var duration = 60 * 2;
+    			var timer = duration, minutes, seconds;
+			    setInterval(function () {
+			        minutes = parseInt(timer / 60, 10)
+			        seconds = parseInt(timer % 60, 10);
+
+			        minutes = minutes < 10 ? minutes : minutes;
+			        seconds = seconds < 10 ? "0" + seconds : seconds;
+
+			        document.querySelector('#timer10').textContent = minutes + ":" + seconds;
 
 			        if (--timer < 0) {
 			            timer = 0;
