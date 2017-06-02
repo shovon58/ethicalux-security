@@ -21,27 +21,27 @@ Palladio himself was inspired by Ancient Rome, and how the architecture of that 
 Andrea Palladio, *Four Books of Architecture* (1788, Isaac Ware, London). Front page.
 
 Note:
-Palladio's other great legacy was his book, *The Four Books of Architecture*. Two hundred years after his death, editions of the book were still being printed with a frontespiece depicting the maidens of Architecture paying homage to the "Queen of Virtue."
+Palladio's other great legacy was his book, *The Four Books of Architecture*. Two hundred years after his death, editions of the book were still being printed with a frontispiece depicting the maidens of Architecture paying homage to the "Queen of Virtue."
 
 
 -----
 
 <img alt="Albert Speer's German pavillion from the 1937 World's Fair" src="img/02k.jpg" style="width: 700px" />
 
-Albert Speer's German pavillion from the 1937 World's Fair
+Albert Speer's German pavilion from the 1937 World's Fair
 
 Note: 
 
-Let's look at another example. This is the German Pavillion, designed by Albert Speer, for the 1937 World's Fair, representing Germany's fascist government. A pavillion has a very different purpose than a plan to protect farmland. It has functional purposes, but it also represents the values and ideals of the creators explicitly. We can assume that Speer was pretty deliberate in building this 500 foot tall imposing, agressive tower of might to convey a set of values the government stood for. It's a monument to oppression and power.
+Let's look at another example. This is the German Pavilion, designed by Albert Speer, for the 1937 World's Fair, representing Germany's fascist government. A pavillion has a very different purpose than a plan to protect farmland. It has functional purposes, but it also represents the values and ideals of the creators explicitly. We can assume that Speer was pretty deliberate in building this 500 foot tall imposing, agressive tower of might to convey a set of values the government stood for. It's a monument to oppression and power.
 
 -----
 
-![Federal Republic of Germany’s 1958 world’s fair pavillion designed by Egon Eiermann](img/1958-2.jpg)
+![Federal Republic of Germany’s 1958 world’s fair pavilion designed by Egon Eiermann](img/1958-2.jpg)
 
-Egon Eiermann's Federal Republic of Germany pavillion for the 1958 World's Fair
+Egon Eiermann's Federal Republic of Germany pavilion for the 1958 World's Fair
 
 Note: 
-21 years later, Egon Eiermann designed the World's Fair pavillion for the Federal Republic of Germany’s in 1958. It emphasizes horizontiality to suggest calm, lightness to imply gentleness, and transparency to evoke democracy. It was a statement to the world about the values of the new German government.
+21 years later, Egon Eiermann designed the World's Fair pavilion for the Federal Republic of Germany’s in 1958. It emphasizes horizontiality to suggest calm, lightness to imply gentleness, and transparency to evoke democracy. It was a statement to the world about the values of the new German government.
 
 -----
 
@@ -58,7 +58,7 @@ This isn't an unusual proposition, that created things reflected societal values
 
 -----
 
-![Example of how gerrymandering can allow a minority of voters to win the majorituy of seats in an election by Steven Nass](img/stealelection.png)
+![Example of how gerrymandering can allow a minority of voters to win the majority of seats in an election by Steven Nass](img/stealelection.png)
 
 [Steven Nass, CC-BY 4.0](https://en.wikipedia.org/wiki/File:How_to_Steal_an_Election_-_Gerrymandering.svg)
 
@@ -100,7 +100,7 @@ The late social critic Paul Goodman wrote about technology in the broadest sense
 [Architecture is politics: The power and the perils of systems design](https://docs.google.com/presentation/d/180dMBG26xMYB9gfIotoUyCBQfO3XfmHiJGQjvn58GwY/edit?pref=2&pli=1#slide=id.gf03c9bb35_0_143)
 
 Note:
- In his insightful talk Architecture is Politics, UX Libs alum Andreas Orphanides notes that nearly all created and designed things embed within them the values and biases or theior creators, whether we intend to or not. We're building systems that reflect our values, that inherently take stances about what is right and what is wrong.
+ In his insightful talk Architecture is Politics, UX Libs alum Andreas Orphanides notes that nearly all created and designed things embed within them the values and biases or their creators, whether we intend to or not. We're building systems that reflect our values, that inherently take stances about what is right and what is wrong.
 
 
 
@@ -170,7 +170,7 @@ Pass.
 
 ### This is how bad design makes it out into the world. Not due to malicious intent, but with no intent at all.
 
-#### Mike Montero
+#### Mike Monteiro
 
 [How Designers Destroyed the World](https://vimeo.com/68470326)
 
@@ -236,7 +236,7 @@ Note:
 
 ### We need to fear the consequences of our work more than we love the cleverness of our ideas.
 
-#### Mike Montero
+#### Mike Monteiro
 
 [How Designers Destroyed the World](https://vimeo.com/68470326)
 
